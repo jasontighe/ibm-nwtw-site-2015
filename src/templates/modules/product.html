@@ -1,0 +1,31 @@
+
+<div ng-switch="item.alignment">
+    <div ng-switch-when="left">
+        <div class="ibm-columns product {{item.product_name}}">
+            <!-- need to add test that if images exist then add class for box to ibm-columns; otherwise, just to ibm-col-6-4
+            also need logic to toggle 6-4 to left side so it's 6-4, 6-2 -->
+            <div class="ibm-col-6-3">
+                <div page-content type="components/product-detail"></div>
+            </div>
+            <div class="ibm-col-6-3">
+                <!--&nbsp;-->
+                <div page-content type="components/images-inline"></div>
+            </div>
+
+        </div>
+    </div>
+
+    <div ng-switch-when="right">
+        <div class="ibm-columns product {{item.product_name}}">
+            <!-- need to add test that if images exist then add class for box to ibm-columns; otherwise, just to ibm-col-6-4
+            also need logic to toggle 6-4 to left side so it's 6-4, 6-2 -->
+            <div class="ibm-col-6-3">
+                <!--&nbsp;-->
+                <div page-content type="components/images-inline"></div>
+            </div>
+            <div class="ibm-col-6-3">
+                <div page-content type="components/product-detail"></div>
+            </div>
+        </div>
+    </div>
+</div>

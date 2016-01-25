@@ -1,0 +1,256 @@
+{
+	"_id": "40436a4d02f9a8677dd7cd4929133e90",
+	"_rev": "3-d6c584ea8655ee85c13a089900822d0d",
+	"type": "nww_site",
+	"country": "US",
+	"language": "en_US",
+	"locale_url": "en/us",
+	"name": "Data",
+	"parent": "b1b90697734b4e991edb4de38b848cba",
+	"url": "data",
+	"canonical_url": "data",
+	"page_title": "IBM | Made with IBM - Data",
+	"model": "Page",
+	"locations": {
+		"intro": [
+			{
+				"title": "now you can know better",
+				"description": "What does your customer want … right now? Which new market should you enter? Business has always been full of questions. But now, with the ability to analyze all kinds of real-time data from all kinds of devices, we have answers. IBM Big Data & Analytics offerings—including an exclusive data partnership with Twitter—are helping businesses find new ways to make data-driven decisions.",
+				"alignment": "left",
+				"_id": "54de45a9a85875f3309fad5eea280e1f",
+				"name": "Data-Hero default",
+				"filters": {
+					"role": "default",
+					"segment": "2",
+					"featured_product": ""
+				},
+				"content-type": "hero"
+			},
+			{
+				"title": "now you can know better",
+				"description": "What does your customer want … right now? Which new market should you enter? Business has always been full of questions. But now, with the ability to analyze all kinds of real-time data from all kinds of devices, we have answers. IBM Big Data & Analytics offerings—including an exclusive data partnership with Twitter—are helping businesses find new ways to make data-driven decisions.",
+				"alignment": "left",
+				"_id": "54de45a9a85875f3309fad5eea28c00d",
+				"filters": {
+					"role": "lob",
+					"segment": "2",
+					"featured_product": ""
+				},
+				"name": "Data-Hero lob",
+				"content-type": "hero"
+			},
+			{
+				"title": "now you can know better",
+				"description": "What do customers want? Which new market should you enter? Business has always been full of questions. But now, with the ability to analyze all kinds of real-time data from all kinds of devices, we have answers. IBM Big Data & Analytics offerings—including an exclusive data partnership with Twitter—help businesses set up the cloud infrastructure and analytics solutions needed to handle critical data.",
+				"alignment": "left",
+				"_id": "54de45a9a85875f3309fad5eea2b3fcb",
+				"filters": {
+					"role": "it",
+					"segment": "2",
+					"featured_product": ""
+				},
+				"name": "Data-Hero it",
+				"content-type": "hero"
+			},
+			{
+				"title": "now you can know better",
+				"description": "We now have the ability to analyze all kinds of real-time data from all kinds of devices. IBM Big Data & Analytics offerings—including an exclusive data partnership with Twitter—are helping developers integrate analytics into a range of data-centric apps.",
+				"alignment": "left",
+				"_id": "d522261661c8638f04aad18e4f65a065",
+				"filters": {
+					"role": "dev",
+					"segment": "2",
+					"featured_product": ""
+				},
+				"name": "Data-Hero dev",
+				"content-type": "hero"
+			}
+		],
+		"watson_analytics": [
+			{
+				"deeplink_description": "You don’t have to be a data scientist to run analytics in the cloud. See a new way to find insights with Watson Analytics.",
+				"deeplink_title": "Big Data & Analytics",
+				"product_name": "Watson Analytics",
+				"description": "If you can ask a question, you can work with IBM Watson. Watson understands natural language queries. Then it goes to work, automating the capture, clean up and analysis of your data to give answers and insights you understand. All through the cloud. That’s it. No heavy infrastructure. No waiting weeks for an answer. Simply import existing data, and ask.",
+				"alignment": "right",
+				"cta_label": "Learn more about Watson Analytics",
+				"cta_url": "http://www.ibm.com/analytics/watson-analytics/",
+				"_id": "6bd002b1da8582ac8800ca5613a3a175",
+				"filters": {
+					"role": "it",
+					"segment": "2",
+					"featured_product": ""
+				},
+				"name": "watson-analytics-it",
+				"content-type": "product"
+			},
+			{
+				"cta_url": "http://www.ibm.com/analytics/watson-analytics/",
+				"alignment": "right",
+				"cta_label": "Learn more about Watson Analytics",
+				"description": "If you can ask a question, you can work with IBM Watson. Watson understands natural language queries. Then it goes to work, automating the capture, clean up and analysis of your data to give answers and insights you understand. All through the cloud. That’s it. No heavy infrastructure. No waiting weeks for an answer. Simply import existing data, and ask.",
+				"product_name": "Watson Analytics",
+				"deeplink_title": "Big Data & Analytics",
+				"deeplink_description": "You don’t have to be a data scientist to run analytics in the cloud. See a new way to find insights with Watson Analytics.",
+				"_id": "a96e73222deee0bc8d2106b617d1c672",
+				"filters": {
+					"role": "dev",
+					"segment": "2",
+					"featured_product": ""
+				},
+				"name": "watson-analytics-dev",
+				"content-type": "product"
+			},
+			{
+				"product_name": "Watson Analytics",
+				"description": "If you can ask a question, you can work with IBM Watson. Watson understands natural language queries. Then it goes to work, automating the capture, clean up and analysis of your data to give answers and insights you understand. All through the cloud. That’s it. No heavy infrastructure. No waiting weeks for an answer. Simply import existing data, and ask.",
+				"alignment": "right",
+				"subhead": "Data-driven decisions should be happening everywhere in your organization. But not everyone in your organization can build predictive models to run the complex analytics needed to make them. Watson Analytics has functionality anyone can work with. Easy-to-use templates, instant visualizations and guided discovery capabilities mean now, analytical decisions can come from everyone.",
+				"cta_label": "Learn more about Watson Analytics",
+				"cta_url": "http://www.ibm.com/analytics/watson-analytics/",
+				"deeplink_title": "Big Data & Analytics",
+				"deeplink_description": "You don’t have to be a data scientist to run analytics in the cloud. See a new way to find insights with Watson Analytics.",
+				"_id": "af7853b547fb43c2b14585a2c26c9c1a",
+				"filters": {
+					"role": "lob",
+					"segment": "2",
+					"featured_product": ""
+				},
+				"name": "watson-analytics-lob",
+				"content-type": "product"
+			},
+			{
+				"product_name": "Watson Analytics",
+				"description": "If you can ask a question, you can work with IBM Watson. Watson understands natural language queries. Then it goes to work, automating the capture, clean up and analysis of your data to give answers and insights you understand. All through the cloud. That’s it. No heavy infrastructure. No waiting weeks for an answer. Simply import existing data, and ask.",
+				"alignment": "right",
+				"cta_label": "Learn more about Watson Analytics",
+				"cta_url": "http://www.ibm.com/analytics/watson-analytics/",
+				"deeplink_title": "Big Data & Analytics",
+				"deeplink_description": "You don’t have to be a data scientist to run analytics in the cloud. See a new way to find insights with Watson Analytics.",
+				"_id": "afd27710cb039c9f391798d03f6fc4c2",
+				"filters": {
+					"role": "default",
+					"segment": "2",
+					"featured_product": ""
+				},
+				"name": "watson-analytics-default",
+				"content-type": "product"
+			},
+			{
+				"title": "Working with Watson",
+				"description": "Get a look at the intuitive interface of Watson Analytics. See how easy it is to turn overwhelming data into clear insights.",
+				"video_url": "7NU6DA_cZtc#t=15",
+				"images": {
+					"altText": "Working with Watson video"
+				},
+				"_id": "4d5f59849d5ee1105ef01eeda7fd888d",
+				"filters": {
+					"role": "all",
+					"segment": "all",
+					"featured_product": ""
+				},
+				"name": "watson-analytics-video",
+				"content-type": "video"
+			}
+		],
+		"twitter": [
+			{
+				"product_name": "Twitter",
+				"description": "Twitter holds the thoughts, ideas and aspirations of millions of individuals. But businesses are barely scratching the surface of what social media insights can bring to strategic decision making. A Twitter and IBM partnership lets businesses use popular sentiment in real time with cloud-based analytics. So data-driven insights can now fuel decisions across the organization, leading to new ways to create products, engage with your people, monitor your supply chain and more.",
+				"alignment": "left",
+				"quote_copy": "IBM brings a unique combination of cloud-based analytics solutions and a global services team that can help companies utilize this truly unique data.",
+				"deeplink_title": "Partnerships",
+				"deeplink_description": "There’s potential in data anywhere and everywhere. See how our collaboration with Twitter leads to new ways of understanding customers.",
+				"person": "Chris Moody",
+				"person_title": "Vice President of Data Strategy",
+				"company": "Twitter",
+				"cta_label": "Read more about the Twitter and IBM partnership",
+				"cta_url": "http://www-03.ibm.com/press/us/en/pressrelease/45265.wss",
+				"_id": "6bd002b1da8582ac8800ca5613abe812",
+				"filters": {
+					"role": "default",
+					"segment": "all",
+					"featured_product": ""
+				},
+				"name": "twitter-default",
+				"content-type": "product"
+			},
+			{
+				"product_name": "Twitter",
+				"deeplink_description": "There’s potential in data anywhere and everywhere. See how our collaboration with Twitter leads to new ways of understanding customers.",
+				"deeplink_title": "Partnerships",
+				"description": "Twitter holds the thoughts, ideas and aspirations of millions of individuals. But businesses are barely scratching the surface of what social media insights can bring to strategic decision making. A Twitter and IBM partnership lets developers use popular sentiment in real time with cloud-based analytics and the support of an IBM global services team.",
+				"subhead": "Now you’ll have the ability to embed Twitter streams and analytics directly into apps through select cloud-based services, including data refinery and IBM Watson Analytics. Soon, you’ll also be able to integrate Twitter data into coming services on IBM Watson Developer Cloud and IBM Bluemix.",
+				"quote_copy": "IBM brings a unique combination of cloud-based analytics solutions and a global services team that can help companies utilize this truly unique data.",
+				"person": "Chris Moody",
+				"person_title": "Vice President of Data Strategy",
+				"company": "Twitter",
+				"cta_label": "Read more about the Twitter and IBM partnership",
+				"cta_url": "http://www-03.ibm.com/press/us/en/pressrelease/45265.wss",
+				"alignment": "left",
+				"_id": "a96e73222deee0bc8d2106b617dbe7fd",
+				"filters": {
+					"role": "it",
+					"segment": "2",
+					"featured_product": ""
+				},
+				"name": "twitter-it",
+				"content-type": "product"
+			},
+			{
+				"product_name": "Twitter",
+				"cta_url": "http://www-03.ibm.com/press/us/en/pressrelease/45265.wss",
+				"cta_label": "Read more about the Twitter and IBM partnership",
+				"description": "Twitter holds the thoughts, ideas and aspirations of millions of individuals. But businesses are barely scratching the surface of what social media insights can bring to strategic decision making. A Twitter and IBM partnership lets developers use popular sentiment in real time with cloud-based analytics and the support of an IBM global services team.",
+				"alignment": "left",
+				"subhead": "Now you’ll have the ability to embed Twitter streams and analytics directly into apps through select cloud-based services, including data refinery and IBM Watson Analytics. Soon, you’ll also be able to integrate Twitter data into coming services on IBM Watson Developer Cloud and IBM Bluemix.",
+				"quote_copy": "IBM brings a unique combination of cloud-based analytics solutions and a global services team that can help companies utilize this truly unique data.",
+				"person": "Chris Moody",
+				"person_title": "Vice President of Data Strategy",
+				"company": "Twitter",
+				"deeplink_description": "There’s potential in data anywhere and everywhere. See how our collaboration with Twitter leads to new ways of understanding customers.",
+				"deeplink_title": "Partnerships",
+				"_id": "a96e73222deee0bc8d2106b617ddc7bd",
+				"filters": {
+					"role": "dev",
+					"segment": "2",
+					"featured_product": ""
+				},
+				"name": "twitter-dev",
+				"content-type": "product"
+			},
+			{
+				"cta_url": "http://www-03.ibm.com/press/us/en/pressrelease/45265.wss",
+				"cta_label": "Read more about the Twitter and IBM partnership",
+				"company": "Twitter",
+				"person_title": "Vice President of Data Strategy",
+				"person": "Chris Moody",
+				"quote_copy": "IBM brings a unique combination of cloud-based analytics solutions and a global services team that can help companies utilize this truly unique data.",
+				"description": "Twitter holds the thoughts, ideas and aspirations of millions of individuals. But businesses are barely scratching the surface of what social media insights can bring to strategic decision making. A Twitter and IBM partnership lets businesses use popular sentiment in real time with cloud-based analytics. So data-driven insights can now fuel decisions across the organization, leading to new ways to create products, engage with your people, monitor your supply chain and more.",
+				"subhead": "Insights are getting more insightful. Businesses can now use twitter data to predict long-term trends when creating new products. To improve demand forecasting along supply chains with real-time insight. And to track social sentiment to inform engagement initiatives. And, as IBM and Twitter roll out new, industry-specific apps to banking, retail, travel, transportation and consumer products, you’ll find new ways to do even more.",
+				"deeplink_description": "There’s potential in data anywhere and everywhere. See how our collaboration with Twitter leads to new ways of understanding customers.",
+				"deeplink_title": "Partnerships",
+				"product_name": "Twitter",
+				"_id": "d5c9208556b74a2ee79b0fa8a945655d",
+				"filters": {
+					"role": "lob",
+					"segment": "2",
+					"featured_product": ""
+				},
+				"name": "twitter-lob",
+				"content-type": "product"
+			}
+		],
+		"footer": [
+
+			{
+				"filters": {
+					"role": "all",
+					"segment": "all",
+					"featured_product": ""
+				},
+				"content-type": "footer"
+			}
+		]
+	}
+}

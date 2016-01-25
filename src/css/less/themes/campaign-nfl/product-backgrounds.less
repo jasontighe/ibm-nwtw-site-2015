@@ -1,0 +1,569 @@
+.intro p {
+  text-shadow:none;
+}
+
+.divider {
+  text-align: center;
+  height:auto;
+  img {
+    height:auto;
+    width:100%;
+  }
+  .ibm-columns {
+    padding: 0 !important; /* Override IBM ww.css JPT */
+  }
+}
+
+.bluemix-divider, .silverpop-divider, .softlayer-divider, .verse-divider, .qradar-divider, .twitter-divider,
+.apple-divider, .watson_analytics-divider, .watson_engagement_advisor-divider, .watson_oncology-divider, .watson_discovery_advisor-divider {
+  background: rgb(77,182,152); /* Old browsers */
+  /* IE9 SVG, needs conditional override of 'filter' to 'none' */
+  background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzRkYjY5OCIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMxZDk3YjEiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+  background: -moz-linear-gradient(left, rgba(77,182,152,0.8) 0%, rgba(29,151,177,0.8) 100%); /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgba(77,182,152,0.8)), color-stop(100%,rgba(29,151,177,1))); /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(left, rgba(77,182,152,0.8) 0%,rgba(29,151,177,0.8) 100%); /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(left, rgba(77,182,152,0.8) 0%,rgba(29,151,177,0.8) 100%); /* Opera 11.10+ */
+  background: -ms-linear-gradient(left, rgba(77,182,152,0.8) 0%,rgba(29,151,177,0.8) 100%); /* IE10+ */
+  background: linear-gradient(to right, rgba(77,182,152,0.8) 0%,rgba(29,151,177,0.8) 100%); /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4db698', endColorstr='#1d97b1',GradientType=1 ); /* IE6-8 */
+
+  display: block;
+  height: 35px;
+  margin-top: 40px;
+
+  img {
+    display:none;
+  }
+}
+
+//TODO: refactor when new images are provided
+.accordion-header{
+  height:110px !important;
+  h4 {
+    font-family: 'lubalingraphstdbookibm', Arial, san-serif;
+    font-size: 24px;
+    line-height:30px;
+    vertical-align:middle;
+    float:right;
+    margin-right: 0;
+    width:150px;
+    height:50%;
+    color:#666;
+  }
+  .sub-category {
+    float:right;
+    margin-right:74px;
+    display:table;
+    margin-top:20px;
+  }
+  .accordion-icon {
+    background: url('@{images}/icon_elements.png') 0 0 no-repeat;
+    display:block;
+    height:38px;
+    width:38px;
+    float:right;
+    margin:40px 0 0 20px;
+  }
+  .accordion-icon-open {
+    background: url('@{images}/icon_elements.png') -48px 0 no-repeat;
+    display:block;
+    height:38px;
+    width:38px;
+    float:right;
+    margin:40px 0 0 20px;
+  }
+}
+
+/*#ibm-content .ibm-col-4-2, .ibm-col-6-3 {
+  width: 100%;
+}*/
+
+.product-content {
+  margin-top: 80px;
+  /*p{
+    font-size:14px;
+    line-height:18px;
+    color:#666;
+  }*/
+}
+
+.home .hero-bg {
+  padding: 0 0 50px;
+  background: #cccccc url('@{images}/home/bg_home-intro_mobile.jpg') top center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.cloud .hero-bg {
+
+  background: #cccccc url('@{images}/cloud/intro-bluemix_mobile_x2.jpg') top center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  padding: 0 0 50px;
+}
+.data .hero-bg {
+
+  background: #cccccc url('@{images}/data/bg_intro-twitter_mobile_x2.jpg') top center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  padding: 0 0 50px;
+}
+.watson .hero-bg {
+
+  background: #cccccc url('@{images}/watson/bg_watson-hero_mobile_x2.jpg') top center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  padding: 0 0 50px;
+}
+.social .hero-bg {
+
+  background: #cccccc url('@{images}/social/bg_intro-verse_mobile_x2.jpg') top center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  padding: 0 0 50px;
+}
+.security .hero-bg {
+
+  background: #cccccc url('@{images}/security/bg_intro-qradar_mobile_x2.jpg') top center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  padding: 0 0 50px;
+}
+
+#silverpop {
+  background: #dfdfdf url('@{images}/cloud/bg_silverpop_mobile.jpg') top left no-repeat;
+  -webkit-background-size: 640px 180px;
+  -moz-background-size: 640px 180px;
+  -o-background-size: 640px 180px;
+  background-size: 640px 180px;
+}
+
+#bluemix {
+  background: #dfdfdf url('@{images}/cloud/bg_bluemix_mobile.jpg') top left no-repeat;
+  -webkit-background-size: 640px 180px;
+  -moz-background-size: 640px 180px;
+  -o-background-size: 640px 180px;
+  background-size: 640px 180px;
+}
+
+#softlayer {
+  background: #dfdfdf url('@{images}/cloud/bg_softlayer_mobile.jpg') top left no-repeat;
+  -webkit-background-size: 640px 180px;
+  -moz-background-size: 640px 180px;
+  -o-background-size: 640px 180px;
+  background-size: 640px 180px;
+}
+#verse {
+  background: #dfdfdf url('@{images}/social/bg_verse_mobile.jpg') top left no-repeat;
+  -webkit-background-size: 640px 180px;
+  -moz-background-size: 640px 180px;
+  -o-background-size: 640px 180px;
+  background-size: 640px 180px;
+}
+#twitter {
+  background: #dfdfdf url('@{images}/data/bg_twitter_mobile.jpg') top left no-repeat;
+  -webkit-background-size: 640px 180px;
+  -moz-background-size: 640px 180px;
+  -o-background-size: 640px 180px;
+  background-size: 640px 180px;
+}
+#watson_analytics {
+  background: #dfdfdf url('@{images}/data/bg_watson-analytics_mobile.jpg') top left no-repeat;
+  -webkit-background-size: 640px 180px;
+  -moz-background-size: 640px 180px;
+  -o-background-size: 640px 180px;
+  background-size: 640px 180px;
+}
+#watson_engagement_advisor {
+  background: #dfdfdf url('@{images}/watson/bg_watson-engagement_mobile.jpg') top left no-repeat;
+  -webkit-background-size: 640px 180px;
+  -moz-background-size: 640px 180px;
+  -o-background-size: 640px 180px;
+  background-size: 640px 180px;
+}
+#watson_discovery_advisor {
+  background: #dfdfdf url('@{images}/watson/bg_watson-discovery_mobile.jpg') top left no-repeat;
+  -webkit-background-size: 640px 180px;
+  -moz-background-size: 640px 180px;
+  -o-background-size: 640px 180px;
+  background-size: 640px 180px;
+}
+#watson_oncology {
+  background: #dfdfdf url('@{images}/watson/bg_watson-oncology_mobile.jpg') top left no-repeat;
+  -webkit-background-size: 640px 180px;
+  -moz-background-size: 640px 180px;
+  -o-background-size: 640px 180px;
+  background-size: 640px 180px;
+}
+#qradar {
+  background: #dfdfdf url('@{images}/security/bg_qradar_mobile.jpg') top left no-repeat;
+  -webkit-background-size: 640px 180px;
+  -moz-background-size: 640px 180px;
+  -o-background-size: 640px 180px;
+  background-size: 640px 180px;
+}
+
+
+
+.tablet({
+
+  .bluemix-divider, .silverpop-divider, .softlayer-divider, .verse-divider, .qradar-divider, .twitter-divider,
+  .apple-divider, .watson_analytics-divider, .watson_engagement_advisor-divider, .watson_oncology-divider, .watson_discovery_advisor-divider {
+
+    display: block;
+    height: auto;
+    margin-top: 40px;
+    img {
+      display:block;
+    }
+  }
+
+  .home {
+    .hero-bg {
+      background: none;
+      padding:0 0 70px 0;
+    }
+    .hero {
+      background: #cccccc url('@{images}/home/bg_home-intro_tablet_col.jpg') top center no-repeat;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+      padding: 0;
+    }
+  }
+  .cloud {
+    .hero-bg {
+      background: none;
+      padding:0;
+    }
+    .hero {
+      background: #cccccc url('@{images}/cloud/intro-bluemix_tablet.jpg') top center no-repeat;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+      padding: 0;
+    }
+  }
+  .data {
+    .hero-bg {
+      background: none;
+      padding:0;
+    }
+    .hero {
+      background: #cccccc url('@{images}/data/bg_intro-twitter_tablet.jpg') top center no-repeat;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+      padding: 0;
+    }
+  }
+  .watson {
+    .hero-bg {
+      background: none;
+      padding:0;
+    }
+    .hero {
+
+      background: #cccccc url('@{images}/watson/bg_watson-hero_tablet.jpg') top center no-repeat;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+      padding: 0;
+    }
+  }
+  .social {
+    .hero-bg {
+      background: none;
+      padding:0;
+    }
+    .hero {
+
+      background: #cccccc url('@{images}/social/bg_intro-verse_tablet.jpg') top center no-repeat;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+      padding: 0;
+    }
+  }
+  .security {
+    .hero-bg {
+      background: none;
+      padding:0;
+    }
+    .hero {
+
+      background: #cccccc url('@{images}/security/bg_intro-qradar_tablet.jpg') top center no-repeat;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+      padding: 0;
+    }
+  }
+
+  #silverpop {
+    background: #cccccc url('@{images}/cloud/bg_silverpop_tablet.jpg') top center no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+  #bluemix {
+    background: #cccccc url('@{images}/cloud/bg_bluemix_tablet.jpg') top center no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+  #softlayer {
+    background: #cccccc url('@{images}/cloud/bg_softlayer_tablet.jpg') top center no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  #verse {
+    background: #cccccc url('@{images}/social/bg_verse_tablet.jpg') top center no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  #twitter {
+    background: #cccccc url('@{images}/data/bg_twitter_tablet.jpg') top center no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  #watson_analytics {
+    background: #cccccc url('@{images}/data/bg_watson-analytics_tablet.jpg') top center no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  #watson_engagement_advisor {
+    background: #cccccc url('@{images}/watson/bg_watson-engagement_tablet.jpg') top center no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  #watson_discovery_advisor {
+    background: #cccccc url('@{images}/watson/bg_watson-discovery_tablet.jpg') top center no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  #watson_oncology {
+    background: #cccccc url('@{images}/watson/bg_watson-oncology_tablet.jpg') top center no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  #qradar {
+    background: #cccccc url('@{images}/security/bg_qradar_tablet.jpg') top center no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  .product-content {
+    margin-top: 80px;
+    p {
+      font-size:13px;
+      line-height:20px;
+      color:#666;
+    }
+  }
+  .product-content {
+    margin-top: 40px;
+  }
+});
+
+.notebook({
+
+  .bluemix-divider, .silverpop-divider, .softlayer-divider, .verse-divider, .qradar-divider, .twitter-divider,
+  .apple-divider, .watson_analytics-divider, .watson_engagement_advisor-divider, .watson_oncology-divider, .watson_discovery_advisor-divider {
+
+    display: block;
+    height: autopx;
+    margin-top: 40px;
+  }
+
+  .home {
+    .hero-bg {background:none;}
+    .hero {
+
+      background: #cccccc url('@{images}/home/bg_home-intro_desktop_col.jpg') top center no-repeat;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+      padding: 0;
+    }
+  }
+  .cloud {
+    .hero-bg {background:none;}
+    .hero {
+
+      background: #cccccc url('@{images}/cloud/intro-bluemix-desktop.jpg') top center no-repeat;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+      padding: 0;
+    }
+
+  }
+  .data {
+    .hero-bg {background:none;}
+    .hero {
+
+      background: #cccccc url('@{images}/data/bg_intro-twitter_desktop.jpg') top center no-repeat;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+      padding: 0;
+    }
+  }
+  .watson {
+    .hero-bg {background:none;}
+    .hero {
+
+      background: #cccccc url('@{images}/watson/bg_watson-hero_desktop.jpg') top center no-repeat;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+      padding: 0;
+    }
+  }
+  .social {
+    .hero-bg {background:none;}
+    .hero {
+
+      background: #cccccc url('@{images}/social/bg_intro-verse_desktop.jpg') top center no-repeat;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+      padding: 0;
+    }
+  }
+  .security {
+    .hero-bg {background:none;}
+    .hero {
+
+      background: #cccccc url('@{images}/security/bg_intro-qradar_desktop.jpg') top center no-repeat;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+      padding: 0;
+    }
+  }
+  
+  #silverpop {
+    background: #cccccc url('@{images}/cloud/bg_silverpop_desktop.jpg') top center no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  
+  #bluemix {
+    background: #cccccc url('@{images}/cloud/bg_bluemix_desktop.jpg') top center no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  
+  #softlayer {
+    background: #cccccc url('@{images}/cloud/bg_softlayer_desktop.jpg') top center no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  #verse {
+    background: #cccccc url('@{images}/social/bg_verse_desktop.jpg') top center no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  #twitter {
+    background: #cccccc url('@{images}/data/bg_twitter_desktop.jpg') top center no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  #watson_analytics {
+    background: #cccccc url('@{images}/data/bg_watson-analytics_desktop.jpg') top center no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  #watson_engagement_advisor {
+    background: #cccccc url('@{images}/watson/bg_watson-engagement_desktop.jpg') top center no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  #watson_discovery_advisor {
+    background: #cccccc url('@{images}/watson/bg_watson-discovery_desktop.jpg') top center no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  #watson_oncology {
+    background: #cccccc url('@{images}/watson/bg_watson-oncology_desktop.jpg') top center no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  #qradar {
+    background: #cccccc url('@{images}/security/bg_qradar_desktop.jpg') top center no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  .product-content {
+    margin-top: 40px;
+    p{
+      font-size:16px;
+      line-height:23px;
+      color:#666;
+    }
+  }
+});

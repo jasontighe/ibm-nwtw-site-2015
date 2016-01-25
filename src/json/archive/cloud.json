@@ -1,0 +1,484 @@
+{"total_rows": 6, "offset": 4, "rows": [
+	{
+		"id": "62267a5b33f1251d6cd3ecc46dc99503",
+		"key": "/cloud/",
+		"value": null,
+		"doc": {
+			"_id": "62267a5b33f1251d6cd3ecc46dc99503",
+			"_rev": "2-9f132c0927464d90f145b8943777c4fb",
+			"type": "nww_site",
+			"country": "US",
+			"language": "en_US",
+			"locale_url": "en/us",
+			"name": "Cloud",
+			"locations": {
+				"intro": [
+					{
+						"title": "There’s a new way to work and it’s made with IBM Cloud",
+						"description": "With the cloud, realizing ambitions has never been so full of productivity.  The IBM Cloud’s Infrastructure-as-a-Service (IaaS) offers a combination of physical and virtual machines to give you flexibility without compromising performance and control.   With our Software-as-a-Service (SaaS) offerings, all you have to do is plug in and subscribe to get the best of IBM’s solutions.  And with our Platform-as-a-Service (PaaS) offerings, ensure that your ideas are developed into market-ready products with less time and anxiety.",
+						"alignment": "left",
+						"_id": "b2dc717ba4d9658a1eab065a4d56eccb",
+						"name": "Cloud Hero",
+						"filters": {
+							"role": "all",
+							"segment": "all"
+						},
+						"content-type": "hero"
+					}
+				],
+				"silverpop": [
+					{
+						"description": "No matter how you work, software plays a bigger role in your business’ success than you may realize. Everything from core systems and processes, to applications that handle functions like HR and CRM, depend on your software choices. IBM software-as-a-service (SaaS) applications are turnkey workforce solutions designed to drive engagement and collaboration across your business.",
+						"cta_url": "http://www.silverpop.com",
+						"cta_label": "See more on Silverpop",
+						"deeplink_title": "SaaS Silverpop",
+						"deeplink_description": "Customers want experiences made for them. Find out how the marketing automation platform, Silverpop, lets you add precision to your messaging.",
+						"product_name": "Silverpop",
+						"_id": "13cb4155081d6fcb68d93f8d257891e4",
+						"name": "silverpop-default",
+						"filters": {
+							"role": "default",
+							"segment": "all"
+						},
+						"content-type": "product"
+					},
+					{
+						"product_name": "Silverpop",
+						"description": "No matter how you work, software plays a bigger role in your business’ success than you may realize. Everything from core systems and processes, to applications that handle functions like HR and CRM, depend on your software choices. IBM software-as-a-service (SaaS) applications are turnkey workforce solutions designed to drive engagement and collaboration across your business.",
+						"subhead": "The new expectations of work                                             People are working differently. Teams need constant access, simple interfaces, automatic updates and customizable options all with a low learning curve. With IBM SaaS solutions, that’s pretty easy to deliver. Lower your upfront costs. Integrate seamlessly. And upgrade as quickly as you need to. With over 250 SaaS products available, you can lighten your management workload and concentrate on getting things done.",
+						"deeplink_description": "Customers want experiences made for them. Find out how the marketing automation platform, Silverpop, lets you add precision to your messaging.",
+						"deeplink_title": "SaaS Silverpop",
+						"cta_label": "See more on Silverpop",
+						"cta_url": "http://silverpop.com",
+						"alignment": "right",
+						"_id": "04ac1fc87d53162324346de5a42fb4b1",
+						"name": "silverpop-it",
+						"filters": {
+							"role": "it",
+							"segment": "2"
+						},
+						"content-type": "product"
+					},
+					{
+						"subtype": "analyst_research",
+						"company": "Info-Tech Research Group",
+						"title": "Vendor landscape: Email marketing solutions",
+						"description": "The independent Info-Tech Research Group published a report recognizing outstanding vendors in the field of CRM technology. In an assessment for strength of offering and strategy for enterprise, Silverpop was able to stand above the rest.",
+						"cta_label": "Read the report",
+						"cta_url": "http://www.silverpop.com/marketing-resources/white-papers/all/2013/Silverpop-outranks-all-other-vendors-in-latest-infotech-email-report/",
+						"_id": "5940e8e85dd37a7f7f7cb85f84a6dd9a",
+						"name": "silverpop-document-it",
+						"filters": {
+							"role": "it",
+							"segment": "2"
+						},
+						"content-type": "document"
+					},
+					{
+						"description": "Learn how to turn prospects into loyal customers with Silverpop.",
+						"title": "Silverpop walkthrough",
+						"images": {
+							"altText": "Silverpop walkthrough video"
+						},
+						"_id": "62267a5b33f1251d6cd3ecc46daf5fad",
+						"name": "silverpop-video-lob",
+						"filters": {
+							"role": "lob",
+							"segment": "2"
+						},
+						"content-type": "video"
+					},
+					{
+						"product_name": "Silverpop",
+						"description": "No matter how you work, software plays a bigger role in your business’ success than you may realize. Everything from core systems and processes, to applications that handle functions like HR and CRM, depend on your software choices. IBM software-as-a-service (SaaS) applications are turnkey workforce solutions designed to drive engagement and collaboration across your business.",
+						"alignment": "right",
+						"cta_url": "http://silverpop.com",
+						"cta_label": "See more on Silverpop",
+						"deeplink_description": "Customers want experiences made for them. Find out how the marketing automation platform, Silverpop, lets you add precision to your messaging.",
+						"deeplink_title": "SaaS Silverpop",
+						"subhead": "Enable personal touch at a big scale                                                                     Silverpop marketing automation software is a SaaS solution for deeper engagement. It’s simple to deploy and even easier to use. Accessible from any device, any time, no matter where you are, Silverpop lets you target CRM efforts at every touch point. Churn through customer behavioral data to gather real-time insights. Deliver custom experiences and messaging across the entire purchasing journey. Simplify campaign and platform management with cloud-based automation capabilities. Start reaching the right people at the right time.",
+						"_id": "685af6a96c5a2f07854aaeae69cbb44e",
+						"name": "silverpop-lob",
+						"filters": {
+							"role": "lob",
+							"segment": "2"
+						},
+						"content-type": "product"
+					},
+					{
+						"product_name": "Silverpop",
+						"deeplink_description": "Customers want experiences made for them. Find out how the marketing automation platform, Silverpop, lets you add precision to your messaging.",
+						"deeplink_title": "SaaS Silverpop",
+						"cta_label": "See more on Silverpop",
+						"cta_url": "http://silverpop.com",
+						"alignment": "right",
+						"description": "No matter how you work, software plays a bigger role in your business’ success than you may realize. Everything from core systems and processes, to applications that handle functions like HR and CRM, depend on your software choices. IBM software-as-a-service (SaaS) applications are turnkey workforce solutions designed to drive engagement and collaboration across your business.",
+						"subhead": "The new expectations of work                                             People are working differently. Teams need constant access, simple interfaces, automatic updates and customizable options all with a low learning curve. With IBM SaaS solutions, that’s pretty easy to deliver. Lower your upfront costs. Integrate seamlessly. And upgrade as quickly as you need to. With over 250 SaaS products available, you can lighten your management workload and concentrate on getting things done.",
+						"_id": "685af6a96c5a2f07854aaeae69d0eeaa",
+						"name": "silverpop-dev",
+						"filters": {
+							"role": "dev",
+							"segment": "2"
+						},
+						"content-type": "product"
+					},
+					{
+						"title": "Silverpop ROI Calculator",
+						"subtype": "roi_calculator",
+						"description": "Find out how Silverpop can reduce marketing costs while increasing the revenue it generates for your business. Use the ROI Calculator to get a quick estimate of where you stand and where you can go with tools for deeper engagement.",
+						"cta_label": "Use it today",
+						"cta_url": "http://www.silverpop.com/roi/calculator/",
+						"_id": "69dfd3619f466e58de2eada426fb3635",
+						"name": "silverpop-document-default",
+						"filters": {
+							"role": "default",
+							"segment": "all"
+						},
+						"content-type": "document"
+					},
+					{
+						"title": "Silverpop walkthrough",
+						"description": "Learn how to turn prospects into loyal customers with Silverpop.",
+						"images": {
+							"altText": "Silverpop walkthrough video"
+						},
+						"_id": "8783f42a4414d18807393a4024fd0de2",
+						"name": "silverpop-video-default",
+						"filters": {
+							"role": "default",
+							"segment": "all"
+						},
+						"content-type": "video"
+					},
+					{
+						"company": "Info-Tech Research Group",
+						"subtype": "analyst_research",
+						"title": "Vendor landscape: Email marketing solutions",
+						"description": "The independent Info-Tech Research Group published a report recognizing outstanding vendors in the field of CRM technology. In an assessment for strength of offering and strategy for enterprise, Silverpop was able to stand above the rest.",
+						"cta_label": "Read the report",
+						"cta_url": "http://www.silverpop.com/marketing-resources/white-papers/all/2013/Silverpop-outranks-all-other-vendors-in-latest-infotech-email-report/",
+						"_id": "908fb28c33b0ace8dab8dd96c2c538c4",
+						"name": "silverpop-document-lob",
+						"filters": {
+							"role": "lob",
+							"segment": "2"
+						},
+						"content-type": "document"
+					},
+					{
+						"company": "Info-Tech Research Group",
+						"subtype": "analyst_research",
+						"title": "Vendor landscape: Email marketing solutions",
+						"description": "The independent Info-Tech Research Group published a report recognizing outstanding vendors in the field of CRM technology. In an assessment for strength of offering and strategy for enterprise, Silverpop was able to stand above the rest.",
+						"cta_label": "Read the report",
+						"cta_url": "http://www.silverpop.com/marketing-resources/white-papers/all/2013/Silverpop-outranks-all-other-vendors-in-latest-infotech-email-report/",
+						"_id": "908fb28c33b0ace8dab8dd96c2c538c4",
+						"name": "silverpop-document-lob",
+						"filters": {
+							"role": "lob",
+							"segment": "2"
+						},
+						"content-type": "document"
+					}
+				],
+				"bluemix": [
+					{
+						"product_name": "Bluemix",
+						"description": "Bluemix is an open-standards, cloud-based platform for building, managing and running apps of all types, such as web, mobile, big data and smart devices. With a full set of cloud services in one place, Bluemix is both accessible and secure, fast and enterprise-worthy.  This means you can turn a scrappy idea into a business reality before your competition.",
+						"alignment": "left",
+						"cta_url": "http://bluemix.net",
+						"cta_label": "See more on Bluemix",
+						"deeplink_title": "PaaS Bluemix",
+						"deeplink_description": "The platform you build applications on matters – so does where it lives. Explore cloud-based Bluemix for app development.",
+						"_id": "45600acb8e272113fdeb09464f565f7b",
+						"name": "bluemix-default",
+						"filters": {
+							"role": "default",
+							"segment": "all"
+						},
+						"content-type": "product"
+					},
+					{
+						"product_name": "Bluemix",
+						"description": "Bluemix is an open standards platform for building, running Bluemix is an open-standards, cloud-based platform for building, managing and running apps of all types, such as web, mobile, big data and smart devices. With a full set of cloud services in one place, Bluemix is both accessible and secure, fast and enterprise-worthy.  This means you can turn a scrappy idea into a business reality before your competition.",
+						"subhead": "In the past, new apps relied too much on the speed of the developer — their ability to provision infrastructure, integrate services, merge code from multiple sources and tape them together into an app.  But businesses today need to compete faster than the fastest developer and with more resilience than robust enterprises.  Backed by IBM’s legacy in enterprise and built on SoftLayer’s pay-as-you-grow flexibility, Bluemix gives you rapid development without rapid mistakes.",
+						"alignment": "left",
+						"cta_url": "http://bluemix.net",
+						"cta_label": "See more on Bluemix",
+						"deeplink_title": "PaaS Bluemix",
+						"deeplink_description": "The platform you build applications on matters – so does where it lives. Explore cloud-based Bluemix for app development.",
+						"quote_copy": "What WebSphere is for the web, Bluemix is for the cloud.",
+						"person": "Jerry Cuomo",
+						"person_title": "WebSphere Chief Technology Officer",
+						"company": "IBM",
+						"_id": "62267a5b33f1251d6cd3ecc46d94f524",
+						"name": "bluemix-lob",
+						"filters": {
+							"role": "lob",
+							"segment": "2"
+						},
+						"content-type": "product"
+					},
+					{
+						"product_name": "Bluemix",
+						"subhead": "Bluemix works the way you work\nBluemix gets you more than PaaS products that came before it.  Imagine best-of-breed in a one-stop-shop: specialized components that meet your needs and work together to achieve the greatest performance, all in one place.  This means easy integration with IBM and other third-party services, from virtualizing a system to connecting a database service, and everything in between.  Bluemix simply works harder so you can focus on developing:  Instant infrastructure.  Easy-to-understand UI.  Drop and drag features.  Just pick a language, any language, and start.",
+						"description": "Bluemix is an open-standards, cloud-based platform for building, managing and running apps of all types, such as web, mobile, big data and smart devices. As a single source for different components and well integrated with common web and back-end services, Bluemix speeds up development so you can turn ideas into apps faster than ever before.",
+						"deeplink_description": "The platform you build applications on matters – so does where it lives. Explore cloud-based Bluemix for app development.",
+						"deeplink_title": "PaaS Bluemix",
+						"cta_label": "See more on Bluemix",
+						"cta_url": "http://bluemix.net",
+						"alignment": "left",
+						"_id": "62267a5b33f1251d6cd3ecc46d985b64",
+						"name": "bluemix-dev",
+						"filters": {
+							"role": "dev",
+							"segment": "2"
+						},
+						"content-type": "product"
+					},
+					{
+						"product_name": "Bluemix",
+						"alignment": "left",
+						"cta_url": "http://bluemix.net",
+						"cta_label": "See more on Bluemix",
+						"deeplink_title": "PaaS Bluemix",
+						"deeplink_description": "The platform you build applications on matters – so does where it lives. Explore cloud-based Bluemix for app development.",
+						"description": "Bluemix is an open-standards, cloud-based platform for building, managing and running apps of all types, such as web, mobile, big data and smart devices. As a single source for different components and well integrated with common web and back-end services, Bluemix speeds up development so you can turn ideas into apps faster than ever before.",
+						"subhead": "Bluemix works the way you work\nBluemix gets you more than PaaS products that came before it.  Imagine best-of-breed in a one-stop-shop: specialized components that meet your needs and work together to achieve the greatest performance, all in one place.  This means easy integration with IBM and other third-party services, from virtualizing a system to connecting a database service, and everything in between.  Bluemix simply works harder so you can focus on developing:  Instant infrastructure.  Easy-to-understand UI.  Drop and drag features.  Just pick a language, any language, and start.",
+						"_id": "b1b90697734b4e991edb4de38b4325ed",
+						"name": "bluemix-it",
+						"filters": {
+							"role": "it",
+							"segment": "2"
+						},
+						"content-type": "product"
+					},
+					{
+						"title": "Bluemix walkthrough",
+						"description": "Learn how Bluemix tools for developers enable quick creation, deployment and management of applications in the cloud.",
+						"video_url": "ZR_jDitw0Sc",
+						"images": {
+							"altText": "bluemix walkthrough video"
+						},
+						"video_title": "Bluemix walkthrough",
+						"video_description": "Learn how Bluemix tools for developers enable quick creation, deployment and management of applications in the cloud.",
+						"trial_title": "Begin your free trial",
+						"video_images": {
+							"altText": "bluemix walkthrough video"
+						},
+						"trial_description": "Your data is neither here, nor there. SoftLayer helps to make data available when and where you need it. Virtualize, manage and scale your servers in the cloud. See how SoftLayer works for your business.",
+						"cta_url": "https://apps.admin.ibmcloud.com/manage/trial/bluemix.html?cm_mmc=dwchina-_-bluemix-_-offline-_-event",
+						"cta_label": "Sign up today",
+						"_id": "62267a5b33f1251d6cd3ecc46da4c851",
+						"name": "bluemix-video-trial-cta-default",
+						"filters": {
+							"role": "default",
+							"segment": "all"
+						},
+						"content-type": "video_trial-cta"
+					},
+					{
+						"description": "Learn how Bluemix tools for developers enable quick creation, deployment and management of applications in the cloud.",
+						"title": "Bluemix walkthrough",
+						"video_url": "ZR_jDitw0Sc",
+						"images": {
+							"altText": "Bluemix walkthrough video"
+						},
+						"cta_label": "Sign up today",
+						"cta_url": "https://apps.admin.ibmcloud.com/manage/trial/bluemix.html?cm_mmc=dwchina-_-bluemix-_-offline-_-event",
+						"trial_description": "Your data is neither here, nor there. SoftLayer helps to make data available when and where you need it. Virtualize, manage and scale your servers in the cloud. See how SoftLayer works for your business.",
+						"trial_title": "Begin your free trial",
+						"video_images": {
+							"altText": "bluemix walkthrough video"
+						},
+						"video_title": "Bluemix walkthrough",
+						"video_description": "Learn how Bluemix tools for developers enable quick creation, deployment and management of applications in the cloud.",
+						"_id": "69dfd3619f466e58de2eada426f67fb0",
+						"name": "bleumix-video-trial-cta-dev",
+						"filters": {
+							"role": "dev",
+							"segment": "all"
+						},
+						"content-type": "video_trial-cta"
+					},
+					{
+						"video_url": "ZR_jDitw0Sc",
+						"title": "Bluemix walkthrough",
+						"description": "Learn how Bluemix tools for developers enable quick creation, deployment and management of applications in the cloud.",
+						"images": {
+							"altText": "bluemix walkthrough video"
+						},
+						"video_description": "Learn how Bluemix tools for developers enable quick creation, deployment and management of applications in the cloud.",
+						"video_title": "Bluemix walkthrough",
+						"video_images": {
+							"altText": "bluemix walkthrough video"
+						},
+						"trial_title": "Begin your free trial",
+						"trial_description": "Your data is neither here, nor there. SoftLayer helps to make data available when and where you need it. Virtualize, manage and scale your servers in the cloud. See how SoftLayer works for your business.",
+						"cta_label": "Sign up today",
+						"cta_url": "https://apps.admin.ibmcloud.com/manage/trial/bluemix.html?cm_mmc=dwchina-_-bluemix-_-offline-_-event",
+						"_id": "b1b90697734b4e991edb4de38b5622cb",
+						"name": "bluemix-video-trial-cta-it",
+						"filters": {
+							"role": "it",
+							"segment": "2"
+						},
+						"content-type": "video_trial-cta"
+					}
+				],
+				"softlayer": [
+					{
+						"product_name": "SoftLayer",
+						"deeplink_description": "Managing the components that make up your infrastructure doesn’t have to be complicated. Discover how SoftLayer makes working in the cloud easier.",
+						"deeplink_title": "IaaS SoftLayer",
+						"cta_label": "See more",
+						"cta_url": "http://softlayer.com",
+						"alignment": "right",
+						"description": "No matter how you work, software plays a bigger role in your business’ success than you may realize. Everything from core systems and processes, to applications that handle functions like HR and CRM, depend on your software choices. IBM software-as-a-service (SaaS) applications are turnkey workforce solutions designed to drive engagement and collaboration across your business.",
+						"subhead": "The new expectations of work                                             People are working differently. Teams need constant access, simple interfaces, automatic updates and customizable options all with a low learning curve. With IBM SaaS solutions, that’s pretty easy to deliver. Lower your upfront costs. Integrate seamlessly. And upgrade as quickly as you need to. With over 250 SaaS products available, you can lighten your management workload and concentrate on getting things done.",
+						"_id": "13cb4155081d6fcb68d93f8d25c69cfd",
+						"name": "softlayer-it",
+						"filters": {
+							"role": "it",
+							"segment": "2"
+						},
+						"content-type": "product"
+					},
+					{
+						"title": "IBM Cloud and SoftLayer: High-performance computing",
+						"description": "Learn how Bluemix tools for developers enable quick creation, deployment and management of applications in the cloud.",
+						"video_url": "ZGnO-hxeMqk",
+						"images": {
+							"altText": "IBM Cloud and SoftLayer video"
+						},
+						"_id": "42675286f234311e7388beb61a15b337",
+						"name": "softlayer-video-default",
+						"filters": {
+							"role": "default",
+							"segment": "all"
+						},
+						"content-type": "video"
+					},
+					{
+						"cta_url": "https://www.softlayer.com/info/free-cloud",
+						"cta_label": "Start your FREE 30-day SoftLayer trial",
+						"description": "Your data is neither here, nor there. SoftLayer helps to make data available when and where you need it. Virtualize, manage and scale your servers in the cloud. See how SoftLayer works for your business.",
+						"title": "Try out SoftLayer",
+						"_id": "42675286f234311e7388beb61a188e09",
+						"name": "softlayer-trial-cta-dev",
+						"filters": {
+							"role": "dev",
+							"segment": "all"
+						},
+						"content-type": "trial-cta"
+					},
+					{
+						"title": "Try out SoftLayer",
+						"description": "Your data is neither here, nor there. SoftLayer helps to make data available when and where you need it. Virtualize, manage and scale your servers in the cloud. See how SoftLayer works for your business.",
+						"cta_label": "Start your FREE 30-day SoftLayer trial",
+						"cta_url": "https://www.softlayer.com/info/free-cloud",
+						"_id": "45600acb8e272113fdeb09464f972dce",
+						"name": "softlayer-trial-cta-it",
+						"filters": {
+							"role": "it",
+							"segment": "2"
+						},
+						"content-type": "trial-cta"
+					},
+					{
+						"document_subtype": "casestudy",
+						"document_title": "Tiket.com customer story",
+						"document_description": "Tiket.com is one of the largest event and travel ticketing sites in Indonesia. The growing company needed an infrastructure as a service (IaaS) partner with high stability infrastructure, consistent performance and reliable support to ensure site availability and a quality experience for the end-user.",
+						"document_company": "Tiket.com",
+						"document_industry": "Entertainment",
+						"document_cta_label": "Read the full customer story",
+						"document_cta_url": "http://cdn.softlayer.com/Tiket.com_Case_Study_Indonesia.pdf",
+						"trial-cta_title": "Try out SoftLayer",
+						"trial-cta_description": "Your data is neither here, nor there. SoftLayer helps to make data available when and where you need it. Virtualize, manage and scale your servers in the cloud. See how SoftLayer works for your business.",
+						"trial-cta_label": "Start your FREE 30-day SoftLayer trial",
+						"trial-cta_url": "https://www.softlayer.com/info/free-cloud",
+						"_id": "b2dc717ba4d9658a1eab065a4dae0d8b",
+						"name": "softlayer-document_trial-cta",
+						"filters": {
+							"role": "lob",
+							"segment": "2"
+						},
+						"content-type": "document_trial-cta"
+					},
+					{
+						"product_name": "SoftLayer",
+						"description": "SoftLayer infrastructure (IaaS) is made to support tomorrow’s most demanding cloud applications. It’s the flexibility of both virtual and dedicated physical servers managed through the cloud. SoftLayer gives you high performance and control without ever having to compromise.",
+						"alignment": "right",
+						"cta_label": "See more",
+						"cta_url": "http://softlayer.com",
+						"deeplink_title": "IaaS SoftLayer",
+						"deeplink_description": "Managing the components that make up your infrastructure doesn’t have to be complicated. Discover how SoftLayer makes working in the cloud easier.",
+						"_id": "b4e1d103aee1887298867d40bd099ae3",
+						"name": "softlayer-default",
+						"filters": {
+							"role": "default",
+							"segment": "all"
+						},
+						"content-type": "product"
+					},
+					{
+						"product_name": "SoftLayer",
+						"description": "SoftLayer infrastructure (IaaS) is made to support tomorrow’s most demanding cloud applications. It’s the flexibility of both virtual and dedicated physical servers managed through the cloud. SoftLayer gives you high performance and control without ever having to compromise.",
+						"subhead": "SoftLayer goes as far as your business                                       Not all clouds are the same. While other services might provision at the hypervisor level, SoftLayer lets you control the actual infrastructure components your cloud is built on — right down to the location of the data center. Highly regulated industries like finance and healthcare can host data in the countries it originates from to ensure compliance while running a global enterprise. SoftLayer let’s you take your business beyond limitation.",
+						"alignment": "right",
+						"cta_url": "http://softlayer.com",
+						"cta_label": "See more",
+						"deeplink_title": "IaaS SoftLayer",
+						"deeplink_description": "Managing the components that make up your infrastructure doesn’t have to be complicated. Discover how SoftLayer makes working in the cloud easier.",
+						"_id": "b4e1d103aee1887298867d40bd0ba862",
+						"name": "softlayer-lob",
+						"filters": {
+							"role": "lob",
+							"segment": "2"
+						},
+						"content-type": "product"
+					},
+					{
+						"product_name": "SoftLayer",
+						"description": "No matter how you work, software plays a bigger role in your business’ success than you may realize. Everything from core systems and processes, to applications that handle functions like HR and CRM, depend on your software choices. IBM software-as-a-service (SaaS) applications are turnkey workforce solutions designed to drive engagement and collaboration across your business.",
+						"subhead": "The new expectations of work                                             People are working differently. Teams need constant access, simple interfaces, automatic updates and customizable options all with a low learning curve. With IBM SaaS solutions, that’s pretty easy to deliver. Lower your upfront costs. Integrate seamlessly. And upgrade as quickly as you need to. With over 250 SaaS products available, you can lighten your management workload and concentrate on getting things done.",
+						"alignment": "right",
+						"cta_url": "http://softlayer.com",
+						"cta_label": "See more",
+						"deeplink_title": "IaaS Softlayer",
+						"deeplink_description": "Managing the components that make up your infrastructure doesn’t have to be complicated. Discover how SoftLayer makes working in the cloud easier.",
+						"_id": "b4e1d103aee1887298867d40bd0f2c7e",
+						"name": "softlayer-dev",
+						"filters": {
+							"role": "dev",
+							"segment": "all"
+						},
+						"content-type": "product"
+					}
+				],
+				"footer": [
+					{
+						"description": "No matter how you work, software plays a bigger role in your business’ success than you may realize. Everything from core systems and processes, to applications that handle functions like HR and CRM, depend on your software choices. IBM software-as-a-service (SaaS) applications are turnkey workforce solutions designed to drive engagement and collaboration across your business.",
+						"cta_url": "http://www.silverpop.com",
+						"cta_label": "See more on Silverpop",
+						"deeplink_title": "SaaS Silverpop",
+						"deeplink_description": "Customers want experiences made for them. Find out how the marketing automation platform, Silverpop, lets you add precision to your messaging.",
+						"product_name": "Silverpop",
+						"_id": "13cb4155081d6fcb68d93f8d257891e4",
+						"name": "silverpop-default",
+						"filters": {
+							"role": "default",
+							"segment": "all"
+						},
+						"content-type": "product"
+					}
+				]
+			},
+			"model": "Page",
+			"parent": "b1b90697734b4e991edb4de38b848cba",
+			"url": "/cloud/",
+			"canonical_url": "/cloud/",
+			"page_title": "IBM | Made with IBM - Cloud"
+		}
+	}
+]}

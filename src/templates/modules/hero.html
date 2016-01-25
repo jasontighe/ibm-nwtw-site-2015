@@ -1,0 +1,46 @@
+<div class="hero-bg">
+
+    <div class="mobileOnly color-band">
+        <div class="ibm-columns">
+            <div class="ibm-col-1-1">
+                <h1 >{{item.title}}</h1>
+            </div>
+        </div>
+        <div id="arrow-indicator" class="hero-end">
+        </div>
+    </div>
+
+    <div class="ibm-columns noMobile">
+        <div class="ibm-col-6-4 ">
+            <h1 >{{item.title}}</h1>
+            <p>
+                {{item.description}}
+            </p>
+        </div>
+        <div class="ibm-col-6-2 noMobile">&nbsp;</div>
+    </div>
+
+    <div ng-show="locations.products.length > 2" class="ibm-columns noMobile noBottomMargin noSidePadding">
+        <div class="ibm-columns deeplinks">
+            <!-- ibm-col- class calculated according to how many items -->
+            <a ng-repeat="product in locations.products | limitTo: 4" href="#{{product.$key}}" class="deeplink ibm-col-{{locations.products.length < 4 ? '6-' : '4-1'}}{{locations.products.length < 4 ? 6/locations.products.length : ''}}">
+                <h3>{{product[0].deeplink_title}} <span class="btn-linkdown"></span></h3>
+                <p>{{product[0].deeplink_description}}</p>
+            </a>
+        </div>
+    </div>
+
+
+    <div arrow-indicator id="arrow-indicator" class="arrow-indicator">
+        <img src="{{relpath}}i/icons/scroll-arrow-transparent.png"/>
+    </div>
+</div>
+
+<div class="ibm-columns mobileOnly">
+
+    <div class="ibm-col-1-1">
+        <div >
+            <p>{{item.description}}</p>
+        </div>
+    </div>
+</div>

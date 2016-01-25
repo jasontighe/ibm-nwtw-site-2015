@@ -1,0 +1,1 @@
+{"version":3,"sources":["themes/test/main.less"],"names":[],"mappings":"AAKA,UACE,sBAEF,SAAS,UAAU,KACjB","file":"themes/test/main.css","sourcesContent":["//proof of concept\n\n@import \"../../lib.less\";\n@import \"../../mixins.less\";\n\n.ibm-band {\n  background-color: #000;\n}\n.ibm-band:nth-child(2n) {\n  background-color: lightblue;\n}"],"sourceRoot":"/source/"}

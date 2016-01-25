@@ -1,0 +1,22 @@
+.product-wrapper {
+  .accordion-header {
+    cursor: pointer;
+  }
+  .product-content {
+    display: none;
+    .product-name {
+      display: none;
+    }
+  }
+  .tablet({
+    .accordion-header {
+      display: none;
+    }
+    .product-content {
+      display: block!important; //to override inline display:none
+      .product-name {
+        display: block;
+      }
+    }
+  });
+}

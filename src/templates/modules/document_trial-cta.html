@@ -1,0 +1,23 @@
+<div class="ibm-columns box">
+    <p>Recommended for you</p>
+    <div class="ibm-col-6-2">
+        <h4>{{item.document_title}}</h4>
+        <p class="subtitle">{{item.document_subtitle}}</p>
+        <p>{{item.document_description}}</p>
+        <p class="company">{{item.document_company}}</p>
+        <p class="small industry">{{item.document_industry}}</p>
+
+        <p class="button">
+            <a target="_blank" href="{{item.cta_url}}">{{item.document_cta_label}}</a>
+        </p>
+    </div>
+    <div class="ibm-col-6-4">
+        <h4>{{item['trial-cta_title']}}</h4>
+        <p class="subtitle">{{item['trial-cta_subtitle']}}</p>
+        <p>{{item['trial-cta_description']}}</p>
+
+        <p class="button">
+            <a target="_blank" href="{{item['trial-cta_url']}}">{{item['trial-cta_label']}}</a>
+        </p>
+    </div>
+</div>

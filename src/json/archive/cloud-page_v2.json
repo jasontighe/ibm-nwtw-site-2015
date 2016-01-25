@@ -1,0 +1,542 @@
+{
+	"_id": "d6a4aa1e573f9fa10edb059f2f4c4bgg",
+	"_rev": "1-b7a2b3385be94d33d5a7b8ee66c6500b",
+	"id": "cloud-category-page",
+	"type": "nww_site",
+
+	"country": "US",
+	"language": "en_US",
+	"locale_url": "en/us",
+	"url": "some-page",
+
+	"page-title": "some title",
+	"page-description": "some desc",
+	"page-keywords": "key1, key2",
+	"start-date": "1/1/2015",
+
+	"og-title": "some title",
+	"og-description": "some desc",
+	"og-image": "someimg.png",
+	"og-url": "some-page",
+	"locations": {
+		"intro": [
+			{
+				"content-type": "hero",
+				"filters": {
+					"role": "default",
+					"segment": "",
+					"featured_product": "default"
+				},
+				"title": "Default hero Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo?",
+				"sub-title": "",
+				"description": "Default hero SL Lorem ipsum dolor sit amet, ei eirmod vivendum reprehendunt vix, ne nobis contentiones eam. Lorem ipsum dolor sit amet, ei eirmod vivendum reprehendunt vix, ne nobis contentiones eam.",
+				"cta_url": "",
+				"cta_label": "",
+				"alignment": ""
+			},
+			{
+				"content-type": "hero",
+				"filters": {
+					"role": "default",
+					"segment": "",
+					"featured_product": "bluemix"
+				},
+				"title": "Bluemix Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo?",
+				"sub-title": "",
+				"description": "Bluemix SP Lorem ipsum dolor sit amet, ei eirmod vivendum reprehendunt vix, ne nobis contentiones eam. Lorem ipsum dolor sit amet, ei eirmod vivendum reprehendunt vix, ne nobis contentiones eam.",
+				"cta_url": "",
+				"cta_label": "",
+				"alignment": "left"
+			},
+			{
+				"content-type": "hero",
+				"filters": {
+					"role": "default",
+					"segment": "",
+					"featured_product": "silverpop"
+				},
+				"title": "Bluemix Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo?",
+				"sub-title": "",
+				"description": "BM Lorem ipsum dolor sit amet, ei eirmod vivendum reprehendunt vix, ne nobis contentiones eam. Lorem ipsum dolor sit amet, ei eirmod vivendum reprehendunt vix, ne nobis contentiones eam.",
+				"cta_url": "",
+				"cta_label": "",
+				"alignment": ""
+			},
+			{
+				"content-type": "hero",
+				"filters": {
+					"role": "default",
+					"segment": "",
+					"featured_product": "softlayer"
+				},
+				"title": "Softlayer Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo?",
+				"sub-title": "",
+				"description": "SL Lorem ipsum dolor sit amet, ei eirmod vivendum reprehendunt vix, ne nobis contentiones eam. Lorem ipsum dolor sit amet, ei eirmod vivendum reprehendunt vix, ne nobis contentiones eam.",
+				"cta_url": "",
+				"cta_label": "",
+				"alignment": ""
+			}
+		],
+		"interactive": [],
+		"thought_leadership": [],
+		"silverpop": [
+			{
+				"content-type": "product",
+				"filters": {
+					"role": "default",
+					"segment": ""
+				},
+				"description": "some description",
+				"product_name": "Silverpop",
+				"images": {
+					"desktop": "",
+					"desktop-retina": "",
+					"mobile": "",
+					"mobile-retina": ""
+				},
+				"alignment": "right",
+				"cta_url": "http://silverpop.com",
+				"cta_label": "Cta label",
+				"quote": {
+					"quote_copy": "",
+					"person": "",
+					"person_title": "",
+					"company": "",
+					"twitter_url": "",
+					"linkedin_url": ""
+
+				},
+				"deeplink_title": "SaaS",
+				"deeplink_description": "Customers want experiences made for them. Find out how the marketing automation platform, Silverpop, lets you add precision to your messaging."
+
+			},
+			{
+				"content-type": "product",
+				"filters": {
+					"role": "lob",
+					"segment": ""
+				},
+				"description": "some description",
+				"product_name": "Silverpop",
+				"images": {
+					"desktop": "",
+					"desktop-retina": "",
+					"mobile": "",
+					"mobile-retina": ""
+				},
+				"alignment": "right",
+				"cta_url": "",
+				"cta_label": "",
+				"quote": {
+					"quote_copy": "sample quote copy",
+					"person": "Joe Schmoe",
+					"person_title": "Director of Things",
+					"company": "Company",
+					"twitter_url": "http://twitter.com",
+					"linkedin_url": "http://linkedin.com"
+
+				},
+				"deeplink_title": "SaaS",
+				"deeplink_description": "Customers want experiences made for them. Find out how the marketing automation platform, Silverpop, lets you add precision to your messaging."
+
+			},
+			{
+				"content-type": "product",
+				"filters": {
+					"role": "it",
+					"segment": ""
+				},
+				"description": "some description",
+				"product_name": "Silverpop",
+				"images": {
+					"desktop": "",
+					"desktop-retina": "",
+					"mobile": "",
+					"mobile-retina": ""
+				},
+				"alignment": "right",
+				"cta_url": "",
+				"cta_label": "",
+				"deeplink_title": "SaaS",
+				"deeplink_description": "Customers want experiences made for them. Find out how the marketing automation platform, Silverpop, lets you add precision to your messaging."
+
+			},
+			{
+				"content-type": "product",
+				"filters": {
+					"role": "dev",
+					"segment": ""
+				},
+				"description": "some description",
+				"product_name": "Silverpop",
+				"images": {
+					"desktop": "",
+					"desktop-retina": "",
+					"mobile": "",
+					"mobile-retina": ""
+				},
+				"alignment": "right",
+				"cta_url": "",
+				"cta_label": "",
+				"deeplink_title": "SaaS",
+				"deeplink_description": "Customers want experiences made for them. Find out how the marketing automation platform, Silverpop, lets you add precision to your messaging."
+
+			},
+			{
+				"content-type": "video",
+				"filters": {
+					"role": "default",
+					"segment": ""
+				},
+				"images": {
+					"desktop": "../i/pic1.jpg",
+					"desktop-retina": "../i/pic1-x2.jpg",
+					"mobile": "../i/pic1-mobile.jpg",
+					"mobile-retina": "../i/pic1-mobile-x2.jpg"
+				},
+				"title": "A demonstration of IBM's silverpop",
+				"description": "Default version. This video shows a demonstration of IBM silverpop, an environment for the quick creation, deployment, and management of applications in the cloud.",
+				"caption": "",
+				"subtitle": "",
+				"video_url": "uUmNmpGnKp4"
+			},
+			{
+				"content-type": "video",
+				"filters": {
+					"role": "dev",
+					"segment": ""
+				},
+				"images": {
+					"desktop": "../i/pic1.jpg",
+					"desktop-retina": "../i/pic1-x2.jpg",
+					"mobile": "../i/pic1-mobile.jpg",
+					"mobile-retina": "../i/pic1-mobile-x2.jpg"
+				},
+				"title": "A demonstration of IBM's silverpop",
+				"description": "Dev version. This video shows a demonstration of IBM silverpop, an environment for the quick creation, deployment, and management of applications in the cloud.",
+				"caption": "",
+				"subtitle": "",
+				"video_url": "uUmNmpGnKp4"
+			},
+			{
+				"content-type": "video",
+				"filters": {
+					"role": "it",
+					"segment": "1"
+				},
+				"images": {
+					"desktop": "../i/pic1.jpg",
+					"desktop-retina": "../i/pic1-x2.jpg",
+					"mobile": "../i/pic1-mobile.jpg",
+					"mobile-retina": "../i/pic1-mobile-x2.jpg"
+				},
+				"title": "A demonstration of IBM's silverpop",
+				"description": "IT version. This video shows a demonstration of IBM silverpop, an environment for the quick creation, deployment, and management of applications in the cloud.",
+				"video_url": "uUmNmpGnKp4",
+				"subtitle": "",
+				"caption": ""
+			},
+			{
+				"content-type": "video",
+				"filters": {
+					"role": "it",
+					"segment": "2"
+				},
+				"images": {
+					"desktop": "../i/pic1.jpg",
+					"desktop-retina": "../i/pic1-x2.jpg",
+					"mobile": "../i/pic1-mobile.jpg",
+					"mobile-retina": "../i/pic1-mobile-x2.jpg"
+				},
+				"title": "A demonstration of IBM's Silverpop",
+				"description": "IT version. This video shows a demonstration of IBM silverpop, an environment for the quick creation, deployment, and management of applications in the cloud.",
+				"video_url": "uUmNmpGnKp4",
+				"subtitle": "",
+				"caption": ""
+			},
+			{
+				"content-type": "video",
+				"filters": {
+					"role": "it",
+					"segment": "3"
+				},
+				"images": {
+					"desktop": "../i/pic1.jpg",
+					"desktop-retina": "../i/pic1-x2.jpg",
+					"mobile": "../i/pic1-mobile.jpg",
+					"mobile-retina": "../i/pic1-mobile-x2.jpg"
+				},
+				"title": "A demonstration of IBM's Silverpop",
+				"description": "IT3 version. This video shows a demonstration of IBM silverpop, an environment for the quick creation, deployment, and management of applications in the cloud.",
+				"video_url": "uUmNmpGnKp4",
+				"subtitle": "",
+				"caption": ""
+			},
+			{
+				"content-type": "video",
+				"filters": {
+					"role": "lob",
+					"segment": "1"
+				},
+				"images": {
+					"desktop": "../i/pic1.jpg",
+					"desktop-retina": "../i/pic1-x2.jpg",
+					"mobile": "../i/pic1-mobile.jpg",
+					"mobile-retina": "../i/pic1-mobile-x2.jpg"
+				},
+				"title": "A demonstration of IBM's Silverpop",
+				"description": "Here's the LOB version of the description. This video shows a demonstration of IBM silverpop, an environment for the quick creation, deployment, and management of applications in the cloud.",
+				"caption": "",
+				"subtitle": "",
+				"video_url": "uUmNmpGnKp4"
+			}
+
+
+		],
+		"bluemix": [
+			{
+				"content-type": "product",
+				"filters": {
+					"role": "default",
+					"segment": ""
+				},
+				"description": "Bluemix is an open-standards, cloud-based platform for building, managing and running apps of all types, such as web, mobile, big data and smart devices. With a full set of cloud services in one place, Bluemix is both accessible and secure, fast and enterprise-worthy.  This means you can turn a scrappy idea into a business reality before your competition.",
+				"product_name": "PaaS Bluemix",
+				"images": {
+					"desktop": "",
+					"desktop-retina": "",
+					"mobile": "",
+					"mobile-retina": ""
+				},
+				"alignment": "left",
+				"cta_url": "http://bluemix.com",
+				"cta_label": "Discover More About Bluemix",
+				"deeplink_title": "PaaS",
+				"deeplink_description": "The platform you build applications on matters -- so does where it lives. Explore cloud-based Bluemix for app development."
+			},
+			{
+				"content-type": "product",
+				"filters": {
+					"role": "dev",
+					"segment": ""
+				},
+				"description": "Bluemix is an open-standards, cloud-based platform for building, managing and running apps of all types, such as web, mobile, big data and smart devices. As a single source for different components and well integrated with common web and back-end services, Bluemix speeds up development so you can turn ideas into apps faster than ever before.</p><p>Bluemix works the way you work. Bluemix gets you more than PaaS products that came before it.  Imagine best-of-breed in a one-stop-shop: specialized components that meet your needs and work together to achieve the greatest performance, all in one place.  This means easy integration with IBM and other third-party services, from virtualizing a system to connecting a database service, and everything in between.  Bluemix simply works harder so you can focus on developing:  Instant infrastructure.  Easy-to-understand UI.  Drop and drag features.  Just pick a language, any language, and start.",
+				"product_name": "PaaS Bluemix",
+				"images": {
+					"desktop": "",
+					"desktop-retina": "",
+					"mobile": "",
+					"mobile-retina": ""
+				},
+				"alignment": "left",
+				"cta_url": "http://bluemix.com",
+				"cta_label": "Discover More About Bluemix",
+				"deeplink_title": "PaaS",
+				"deeplink_description": "The platform you build applications on matters -- so does where it lives. Explore cloud-based Bluemix for app development."
+			},
+			{
+				"content-type": "product",
+				"filters": {
+					"role": "lob",
+					"segment": ""
+				},
+				"description": "Bluemix is an open-standards, cloud-based platform for building, managing and running apps of all types, such as web, mobile, big data and smart devices. As a single source for different components and well integrated with common web and back-end services, Bluemix speeds up development so you can turn ideas into apps faster than ever before.</p><p>In the past, new apps relied too much on the speed of the developer — their ability to provision infrastructure, integrate services, merge code from multiple sources and tape them together into an app.  But businesses today need to compete faster than the fastest developer and with more resilience than robust enterprises.  Backed by IBM’s legacy in enterprise and built on SoftLayer’s pay-as-you-grow flexibility, Bluemix gives you rapid development without rapid mistakes.",
+				"product_name": "PaaS Bluemix",
+				"images": {
+					"desktop": "",
+					"desktop-retina": "",
+					"mobile": "",
+					"mobile-retina": ""
+				},
+				"alignment": "left",
+				"cta_url": "http://bluemix.com",
+				"cta_label": "Discover More About Bluemix",
+				"quote_copy": "What WebSphere is for the web, Bluemix is for the cloud.",
+				"person": "Jerry Cuomo",
+				"person_title": "WebSphere Chief Technology Officer",
+				"company": "IBM",
+				"twitter_url": "",
+				"linkedin_url": "",
+				"deeplink_title": "PaaS",
+				"deeplink_description": "The platform you build applications on matters -- so does where it lives. Explore cloud-based Bluemix for app development."
+			},
+			{
+				"content-type": "document",
+				"subtype": "casestudy",
+				"filters": {
+					"role": "default",
+					"segment": ""
+				},
+				"title": "Sample Case Study",
+				"subtitle": "here's a subtitle",
+				"description": "some description lorem ipsum...",
+				"company": "Nvidia",
+				"industry": "",
+				"cta_url": "",
+				"cta_label": "Read the Case Study"
+			},
+			{
+				"content-type": "document",
+				"subtype": "whitepaper",
+				"filters": {
+					"role": "default",
+					"segment": ""
+				},
+				"title": "Sample White Paper",
+				"subtitle": "here's a subtitle",
+				"description": "some description lorem ipsum...",
+				"company": "Test Company",
+				"industry": "",
+				"cta_url": "",
+				"cta_label": "Read the White Paper"
+			},
+			{
+				"content-type": "document",
+				"subtype": "analyst-report",
+				"filters": {
+					"role": "default",
+					"segment": ""
+				},
+				"title": "Analyst Report from Forrester",
+				"subtitle": "here's a subtitle",
+				"description": "some description lorem ipsum...",
+				"company": "",
+				"industry": "",
+				"cta_url": "",
+				"cta_label": "Read the Report"
+			},
+			{
+				"content-type": "trial-cta",
+				"filters": {
+					"role": "default",
+					"segment": ""
+				},
+				"title": "Get a Trial Account",
+				"subtitle": "Experiment with Bluemix for free for 30 days!",
+				"description": "follow the link below to apply for a trial subscription...",
+				"cta_url": "https://apps.admin.ibmcloud.com/manage/trial/watsonanalytics.html",
+				"cta_label": "Apply"
+			},
+			{
+				"content-type": "video_document",
+				"filters": {
+					"role": "default",
+					"segment": ""
+				},
+				"video_title": "A demonstration of IBM's Silverpop",
+				"video_description": "Here's the LOB version of the description. This video shows a demonstration of IBM silverpop, an environment for the quick creation, deployment, and management of applications in the cloud.",
+				"video_caption": "",
+				"video_subtitle": "",
+				"video_url": "Q8c_qpX6c0A",
+				"video_images": {
+					"desktop": "../i/pic1.jpg",
+					"desktop-retina": "../i/pic1-x2.jpg",
+					"mobile": "../i/pic1-mobile.jpg",
+					"mobile-retina": "../i/pic1-mobile-x2.jpg"
+				},
+				"document_subtype": "casestudy",
+				"document_title": "Sample Case Study",
+				"document_subtitle": "here's a subtitle",
+				"document_description": "some description lorem ipsum...",
+				"document_company": "Nvidia",
+				"document_industry": "",
+				"document_cta_url": "",
+				"document_cta_label": "Read the Case Study"
+			},
+			{
+				"content-type": "document_trial-cta",
+				"filters": {
+					"role": "default",
+					"segment": ""
+				},
+				"document_subtype": "casestudy",
+				"document_title": "Sample Case Study",
+				"document_subtitle": "here's a subtitle",
+				"document_description": "some description lorem ipsum...",
+				"document_company": "Nvidia",
+				"document_industry": "",
+				"document_cta_url": "",
+				"document_cta_label": "Read the Case Study",
+				"trial-cta_title": "Get a Trial Account",
+				"trial-cta_subtitle": "Experiment with Bluemix for free for 30 days!",
+				"trial-cta_description": "follow the link below to apply for a trial subscription...",
+				"trial-cta_url": "https://apps.admin.ibmcloud.com/manage/trial/watsonanalytics.html",
+				"trial-cta_label": "Apply"
+			}
+
+
+		],
+		"softlayer": [
+			{
+				"content-type": "product",
+				"filters": {
+					"role": "default",
+					"segment": ""
+				},
+				"description": "some description",
+				"product_name": "IaaS SoftLayer",
+				"images": {
+					"desktop": "",
+					"desktop-retina": "",
+					"mobile": "",
+					"mobile-retina": ""
+				},
+				"alignment": "right",
+				"cta_url": "http://ibm.com",
+				"cta_label": "Find out more about SoftLayer",
+				"deeplink_title": "IaaS",
+				"deeplink_description": "Managing the components that make up your infrastructure doesn’t have to be complicated. Discover how SoftLayer makes working in the cloud easier."
+			},
+			{
+				"content-type": "industries",
+				"filters": {
+					"role": "default",
+					"segment": ""
+				},
+				"title": "Industries",
+				"subtitle": "",
+				"description": "some description",
+				"items": [
+					{
+						"content-type": "industry",
+						"title": "industry1",
+						"description": "some description",
+						"cta_url": "",
+						"cta_label": ""
+					},
+					{
+						"content-type": "industry",
+						"title": "industry2",
+						"description": "some description",
+						"cta_url": "",
+						"cta_label": ""
+					},
+					{
+						"content-type": "industry",
+						"title": "industry3",
+						"description": "some description",
+						"cta_url": "",
+						"cta_label": ""
+					},
+					{
+						"content-type": "industry",
+						"title": "industry4",
+						"description": "some description",
+						"cta_url": "",
+						"cta_label": ""
+					}
+				]
+			}
+
+		],
+		"footer": [
+			{
+				"content-type": "footer",
+				"filters": {
+					"role": "",
+					"segment": ""
+				}
+			}
+		]
+	}
+}

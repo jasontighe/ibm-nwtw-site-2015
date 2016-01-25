@@ -1,0 +1,112 @@
+{
+	"total_rows": 3,
+	"bookmark": "g1AAAADLeJzLYWBgYM5gTmGQS0lKzi9KdUhJMtbLTMo1MDDTS87JL01JzCvRy0styQGqY0pkSJL___9_VgaTm_3fcx5AIYZEBmI157GA1C8AUkAj9oPN-DTX5gAWM4wImHEAYsZ9kBkOzP4aEHdkAQC4HT2z",
+	"rows": [
+		{
+			"id": "d6a4aa1e573f9fa10edb059f2f4c4bgg",
+			"order": [1.1633880138397217, 0],
+			"fields": {},
+			"doc": {
+				"_id": "d6a4aa1e573f9fa10edb059f2f4c4bgg",
+				"_rev": "1-b7a2b3385be94d33d5a7b8ee66c6500b",
+				"id": "meta",
+				"type": "nww_site",
+				"locale": "en_US",
+				"items": {
+					"site_name": "A New Way to Work"
+
+				}
+			}
+		},
+		{
+			"id": "d6a4aa1e573f9fa10edb059f2f4c4f2f",
+			"order": [2.4136505126953125, 0],
+			"fields": {},
+			"doc": {
+				"_id": "d6a4aa1e573f9fa10edb059f2f4c4f2f",
+				"_rev": "1-11e09186e25594b8d4dbdc2cf865e45b",
+				"id": "side-nav",
+				"type": "nww_site",
+				"locale": "en_US",
+				"items": {
+					"home": {
+						"text": "Home",
+						"url": "/"
+					},
+					"category1": {
+						"text": "Cloud",
+						"url": "/cloud/"
+					},
+					"category2": {
+						"text": "Mobile",
+						"url": "/mobile/"
+					},
+					"category3": {
+						"text": "Social",
+						"url": "/social/"
+					},
+					"category4": {
+						"text": "Data",
+						"url": "/data/"
+					},
+					"category5": {
+						"text": "Watson",
+						"url": "/watson/"
+					}
+
+				}
+			}
+		},
+		{
+			"id": "d6a4aa1e573f9fa10edb059f2f4c57a4",
+			"order": [1.8628616333007812, 0],
+			"fields": {},
+			"doc": {
+				"_id": "d6a4aa1e573f9fa10edb059f2f4c57a4",
+				"_rev": "1-ab6aeadbdd68db47e088b61861598f2d",
+				"id": "social",
+				"type": "nww_site",
+				"locale": "en_US",
+				"items": {
+					"twitter": "https://twitter.com/home?status=See%20how%20technology%20is%20changing%20the%20world%20today.%20bit.ly/1g7BaUz%20%23madewithIBM",
+					"linkedin": "https://www.linkedin.com/shareArticle?mini=true&url=http://ibm.com/smarterplanet/us/en/madewithibm/&title=Made%20with%20IBM&summary=See%20how%20technology%20is%20changing%20the%20world%20today.%20bit.ly/1g7BaUz%20%23madewithIBM",
+					"facebook": "http://www.facebook.com/sharer.php?u=http%3A%2F%2Fibm.com%2Fsmarterplanet%2Fus%2Fen%2Fmadewithibm%2F&title=Made%20with%20IBM&summary=See%20how%20technology%20is%20changing%20the%20world%20today.%20bit.ly/1g7BaUz%20%23madewithIBM"
+				}
+			}
+		},
+		{
+			"id": "d6a4aa1e573f9fa10edb059f2f4c4b6f",
+			"order": [1.1633880138397217, 0],
+			"fields": {},
+			"doc": {
+				"_id": "d6a4aa1e573f9fa10edb059f2f4c4b6f",
+				"_rev": "1-b7a2b3385be94d33d5a7b8ee66c6500b",
+				"id": "footer",
+				"type": "nww_site",
+				"locale": "en_US",
+				"items": {
+					"tvspots": {
+						"text": "TV Ad Gallery",
+						"url": "/tv/"
+					},
+					"stories": {
+						"text": "Case Studies",
+						"url": "http://www.ibm.com/madewithibm/"
+					},
+					"ibm_dot_com": {
+						"text": "ibm.com",
+						"url": "http://www.ibm.com/"
+					},
+					"terms_of_use": {
+						"text": "Terms of Use",
+						"url": "http://www.ibm.com/legal/us/en/"
+					},
+					"privacy_policy": {
+						"text": "Privacy Policy",
+						"url": "http://www.ibm.com/privacy/us/en/"
+					}
+				}
+			}
+		}
+	]
+}

@@ -1,0 +1,366 @@
+@import "lib.less";
+@import "mixins.less";
+@import "vars.less";
+@import "fonts.less";
+@import "top-nav.less";
+@import "accordion.less";
+//@import "themes/default/main.less"; //we are injecting nfl theme instead
+
+/* LINKS & BUTTONS */
+a,
+.link {
+  color: @link-color;
+  &:visited {
+    color: @link-color;
+  }
+  &:hover {
+    color: @link-color-hover;
+  }
+}
+
+
+.btn-linkdown {
+  font-size:36px;
+  margin-bottom:20px;
+  bottom:120px;
+  position:absolute;
+}
+.btn-linkdown:before { content: "\f100";  color:#ccc; text-shadow:none;}
+
+body {
+  text-shadow:none;
+  font-size:16px;
+  line-height:23px;
+}
+
+.ibm-band {
+  background: #ffffff url('') top center no-repeat fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  min-height: 0;
+}
+
+.product h1{
+  margin-top:115px;
+  font-family: 'LubalinGraphStdBookIBM', Arial, sans-serif;
+  font-size:42px;
+  line-height:46px;
+  color:#999;
+}
+
+h1,h2,h3,h4,h5,h6 {text-shadow:none;}
+
+.ibm-card {
+  padding: 2rem;
+  background: #fff;
+}
+
+
+#ibm-content p {
+  text-shadow:none;
+}
+
+#ibm-content .product {
+  margin-top:40px;
+}
+
+#ibm-content .box {
+  background: rgba(0,0,0, 0.6);
+  color:#FFFFFF;
+  text-decoration:none;
+  padding: 30px 20px 40px 20px;
+  margin-top:40px;
+  margin-bottom:40px;
+  p{
+    color:#ffffff;
+  }
+  h4 {
+    margin-top:20px;
+  }
+  h3{
+    /*text-transform: uppercase;*/
+  }
+}
+#ibm-content .box-right {
+  margin-right: -20px;
+  background: rgba(0,0,0, 0.75);
+  color:#FFFFFF;
+  text-decoration:none;
+  padding: 12px 20px 30px 20px;
+  margin-top:40px;
+  margin-bottom:40px;
+  float:right;
+  p{
+    color:#ffffff;
+  }
+  h4 {
+    margin-top:20px;
+  }
+  h3{
+    /*text-transform: uppercase;*/
+  }
+}
+
+.ibm-logo {
+  display: inline-block;
+  background: transparent url('@{globalImages}/icons/ibm-logo.png') no-repeat 0 0;
+  text-indent: -9999px;
+}
+
+.ibm-pull-quote {
+  margin:20px 0;
+}
+
+.ibm-button-link-alternate {
+  margin-top:40px;
+
+}
+
+
+.fadeAll {
+  -webkit-transition: all 0.25s linear;
+  -moz-transition: all 0.25s linear;
+  -ms-transition: all 0.25s linear;
+  -o-transition: all 0.25s linear;
+  transition: all 0.25s linear;
+}
+.fadeAllInOut {
+  -webkit-transition: all 0.25s ease-in-out;
+  -moz-transition: all 0.25s ease-in-out;
+  -ms-transition: all 0.25s ease-in-out;
+  -o-transition: all 0.25s ease-in-out;
+  transition: all 0.25s ease-in-out;
+}
+.fadeAllInOutFast {
+  -webkit-transition: all 0.15s ease-in-out;
+  -moz-transition: all 0.15s ease-in-out;
+  -ms-transition: all 0.15s ease-in-out;
+  -o-transition: all 0.15s ease-in-out;
+  transition: all 0.15s ease-in-out;
+}
+
+/* Box with fixed aspect ratio */
+.ratioBox {
+  position: relative;
+  width: 100%;
+}
+
+.ratioBox:before{
+  content: "";
+  display: block;
+  padding-top: 100%; 	/* initial ratio of 1:1*/
+}
+
+.ratioContent {
+  position:  absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+.ratio2_1:before{
+  padding-top: 50%;
+}
+.ratio1_2:before{
+  padding-top: 200%;
+}
+.ratio4_3:before{
+  padding-top: 75%;
+}
+.ratio16_9:before{
+  padding-top: 56.25%;
+}
+/* Box with fixed aspect ratio */
+
+
+/* YouTube Video START */
+.youtube-video-container {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background-color: #000;
+}
+
+.youtube-video-image {
+  width:100%;
+  height:auto;
+}
+
+.youtube-video-btn-container {
+  position: absolute;
+  display: inline-block;
+  z-index: 100;
+  top: 0;
+  background-color: #406f8d;
+  width: 100%;
+  height:100%;
+  cursor: pointer;
+  text-align: center;
+  /* IE 8 */
+  -ms-filter: "prodig:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+  /* IE 5-7 */
+  filter: alpha(opacity=80);
+  /* Netscape */
+  -moz-opacity: 0.8;
+  /* Safari */
+  -khtml-opacity: 0.8;
+  /* Good browsers */
+  opacity: 0.8;
+}
+
+.youtube-video-btn-container:hover {
+  -ms-filter: "prodig:DXImageTransform.Microsoft.Alpha(Opacity=60)";  /* IE 8 */
+  filter: alpha(opacity=60);
+  -moz-opacity: 0.6;  /* Netscape */
+  -khtml-opacity: 0.6;  /* Safari */
+  opacity: 0.6; /* Good browsers */
+}
+
+.youtube-video-play-btn{
+  padding-top: 20%;
+}
+/* YouTube Video END */
+
+
+/* Footer and Subfooter */
+
+#ibm-nww-subfooter {
+  /*
+  background: rgba(0,0,0,0.6) url('../i/campaign-nfl/lines-diagonal-tile.png') top left repeat;
+  */
+
+  display:block;
+  padding: 40px 0;
+
+  .priority {
+    margin-left: 20px;
+  }
+  .icon-wrapper{
+    display: block;
+    float: right;
+  }
+  .share {
+    margin-left: 20px;
+  }
+  .ibm-cloud-footer-phone, .share {
+    color: #fff;
+    text-shadow:none;
+  }
+}
+
+#ibm-nww-footer {
+  /*
+  background: rgba(0,0,0,1) url('../i/campaign-nfl/lines-diagonal-tile.png') top left repeat;
+  */
+  .ibm-link-list a {
+    padding-left: 0;
+    text-shadow:none;
+    color:#fff;
+  }
+  ul.social {
+    list-style: none outside none;
+    .label {
+      color: #fff;
+      cursor: default;
+      display: inline-block;
+      line-height: 24px;
+      text-shadow: none;
+      float: left;
+      margin: 20px 20px 20px 0;
+      font-size: 16px;
+      &:link, &:visited {
+        text-decoration: none;
+      }
+    }
+    .label.top {
+      display: block;
+    }
+    .visit {
+      margin-right:25px;
+    }
+
+
+    li a:visited {
+      text-decoration: none;
+    }
+    .social-link {
+      background: url("http://ibm.com/cloud-computing/images/nav/ibm-cloud-footer-icons.png") repeat scroll 0 0 transparent;
+      display: block;
+      float: right;
+      height: 24px;
+      margin: 20px 20px 20px 0;
+      width: 24px;
+    }
+    .social-link.email {
+      background-position: -24px 0;
+    }
+    .social-link.email:hover {
+      background-position: -24px -24px;
+    }
+    .social-link.tele {
+      background-position: -48px -48px;
+      cursor: default;
+    }
+    .social-link.tw {
+      background-position: -72px 0;
+    }
+    .social-link.tw:hover {
+      background-position: -72px -24px;
+    }
+    .social-link.yt {
+      background-position: -96px 0;
+    }
+    .social-link.yt:hover {
+      background-position: -96px -24px;
+    }
+    .social-link.wp {
+      background-position: -120px 0;
+    }
+    .social-link.wp:hover {
+      background-position: -120px -24px;
+    }
+    .social-link.gp {
+      background-position: -144px 0;
+    }
+    .social-link.gp:hover {
+      background-position: -144px -24px;
+    }
+    .social-link.fb {
+      background-position: -168px 0;
+    }
+    .social-link.fb:hover {
+      background-position: -168px -24px;
+    }
+    .social-link.li {
+      background-position: -192px 0;
+    }
+    .social-link.li:hover {
+      background-position: -192px -24px;
+    }
+  }
+  ul li:before, .ibm-bullet:before {
+    content: "";
+    display: none;
+  }
+
+}
+
+
+.tablet({
+
+  #ibm-nww-footer ul.social .social-link {
+    float: left;
+    margin: 20px 15px 20px 0;
+  }
+
+  #ibm-nww-footer {
+    ul.social {
+      .label {
+        margin: 0 20px 20px 0;
+      }
+    }
+  }
+
+});

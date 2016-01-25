@@ -1,0 +1,40 @@
+<span ng-show="item.sub_category"><h5 class="product-name">{{item.sub_category}}</h5></span>
+<h2 class="product-name">{{item.product_name}}</h2>
+<p>{{item.description}}</p>
+
+<div ng-show="item.subhead">
+    <p class="subtitle">{{item.subtitle}}</p>
+    <p>{{item.subhead}}</p>
+</div>
+
+<div ng-show="item.quote_copy">
+    <div class="ibm-pull-quote">
+        <blockquote>
+            <span class="ibm-pullquote-open">“</span>
+            <p>{{item.quote_copy}}
+                <span class="ibm-pullquote-close">”</span>
+            </p>
+        </blockquote>
+        <p class="ibm-pullquote-source">
+            <span ng-show="item.person">
+                <span ng-show="item.person"><strong>{{item.person}}</strong> </span> <span ng-show="item.person_title">| {{item.person_title}}</span><br/>
+            </span>
+            <span ng-show="item.company">
+                <span ng-show="item.company"> {{item.company}}</span>
+            </span>
+        </p>
+        <div ng-show="item.twitter_url">
+            <p><a href="{{item.twitter_url}}"></a>
+        </div>
+        <div ng-show="item.linkedin_url">
+         <p><a href="{{item.linkedin_url}}"></a></p></p>
+        </div>
+    </div>
+</div>
+
+
+<!--/div-->
+
+<p class="button">
+	<a href="{{item.cta_url}}" target="_blank" class="fadeAllInOutFast">{{item.cta_label}}</a>
+</p>

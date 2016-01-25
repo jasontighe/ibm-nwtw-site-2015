@@ -1,0 +1,79 @@
+//****breakpoints*****??
+/*
+
+usage
+
+.my-selector {
+  color: #fff;
+  content: 'mobile first, dude';
+}
+
+.my-selector {
+  .tablet({
+    content: 'tablet inherits mobile and overwrites whatever you specify';
+    float: left;
+    //color is inherited
+  });
+}
+
+.my-selector {
+  .desktop({
+    content: 'desktop inherits tablet and overwrites whatever you specify';
+    //color and float are inherited
+  });
+}
+
+*/
+
+
+//these will compile for ie8
+.mobile(@rules) when (@ie = true) {
+  @rules();
+}
+
+.tablet(@rules) when (@ie = true) {
+  @rules();
+}
+
+.ibmNavThreshold(@rules) when (@ie = true) {
+  @rules();
+}
+
+.desktop(@rules) when (@ie = true) {
+  @rules();
+}
+
+.notebook(@rules) when (@ie = true) {
+  @rules();
+}
+
+//these will compile for everything else
+.mobile(@rules) {
+  @media screen and (min-width: @mobileWidth) {
+    @rules();
+  }
+}
+
+.tablet(@rules) {
+  @media screen and (min-width: @tabletWidth) {
+    @rules();
+  }
+}
+
+.ibmNavThreshold(@rules) {
+  @media screen and (min-width: @ibmNavThreshold) {
+    @rules();
+  }
+}
+
+.notebook(@rules) {
+  @media screen and (min-width: @notebookWidth) {
+    @rules();
+  }
+}
+
+.desktop(@rules) {
+  @media screen and (min-width: @desktopWidth), screen and (min-width: @tabletWidth) and (orientation: landscape) {
+    @rules();
+  }
+}

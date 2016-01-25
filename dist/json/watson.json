@@ -1,0 +1,238 @@
+{"_id": "45600acb8e272113fdeb09464fbd6523", "_rev": "2-896bb6d5bd6636d0cc9621667049a3c7", "type": "nww_site", "country": "US", "language": "en_US", "locale_url": "en/us", "name": "Watson", "locations": {
+	"intro": [
+		{
+			"title": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget",
+			"description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper",
+			"alignment": "left",
+			"_id": "45600acb8e272113fdeb09464fb13880",
+			"name": "Watson Hero",
+			"filters": {
+				"role": "all",
+				"segment": "all"
+			},
+			"content-type": "hero"
+		}
+	],
+	"watson_discovery_advisor": [
+		{
+			"product_name": "Watson Discovery Advisor",
+			"description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam",
+			"quote_copy": "Watson Discovery Advisor is a powerful tool that not only understands nuances in human language, but also has the ability to understand the language across industries... [The] Watson Discovery Advisor can reduce the time researchers need... bringing new levels of speed and precision to research and development, from months to days and days to just hours.",
+			"person": "Michael Rhodin",
+			"person_title": "SVP Watson Group",
+			"company": "IBM",
+			"cta_label": "See more on Watson Discovery Advisor",
+			"cta_url": "http://www.ibm.com/smarterplanet/us/en/ibmwatson/discovery-advisor.html",
+			"alignment": "right",
+			"deeplink_title": "Analytics",
+			"deeplink_description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis",
+			"_id": "b4e1d103aee1887298867d40bd312de5",
+			"name": "watson-discovery-default",
+			"filters": {
+				"role": "default",
+				"segment": "all"
+			},
+			"content-type": "product"
+		},
+		{
+			"deeplink_description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis",
+			"deeplink_title": "Analytics",
+			"description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam",
+			"product_name": "Watson Discovery Advisor",
+			"alignment": "right",
+			"quote_copy": "Watson Discovery Advisor is a powerful tool that not only understands nuances in human language, but also has the ability to understand the language across industries... [The] Watson Discovery Advisor can reduce the time researchers need... bringing new levels of speed and precision to research and development, from months to days and days to just hours.",
+			"person": "Michael Rhodin",
+			"person_title": "SVP Watson Group",
+			"company": "IBM",
+			"_id": "13cb4155081d6fcb68d93f8d25ea33c4",
+			"name": "watson-discovery-dev",
+			"filters": {
+				"role": "dev",
+				"segment": "all"
+			},
+			"content-type": "product"
+		},
+		{
+			"product_name": "Watson Discovery Advisor",
+			"description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam",
+			"subhead": "Lorem ipsum dolor sit amet                              Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla",
+			"alignment": "right",
+			"quote_copy": "Watson Discovery Advisor is a powerful tool that not only understands nuances in human language, but also has the ability to understand the language across industries... [The] Watson Discovery Advisor can reduce the time researchers need... bringing new levels of speed and precision to research and development, from months to days and days to just hours.",
+			"person": "Michael Rhodin",
+			"person_title": "SVP Watson Group",
+			"company": "IBM",
+			"cta_label": "See more on Watson Discovery Advisor",
+			"cta_url": "http://www.ibm.com/smarterplanet/us/en/ibmwatson/discovery-advisor.html",
+			"deeplink_description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis",
+			"deeplink_title": "Analytics",
+			"_id": "62267a5b33f1251d6cd3ecc46df9186f",
+			"name": "watson-discovery-lob",
+			"filters": {
+				"role": "lob",
+				"segment": "all"
+			},
+			"content-type": "product"
+		},
+		{
+			"description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam",
+			"product_name": "Watson Discovery Advisor",
+			"quote_copy": "Watson Discovery Advisor is a powerful tool that not only understands nuances in human language, but also has the ability to understand the language across industries... [The] Watson Discovery Advisor can reduce the time researchers need... bringing new levels of speed and precision to research and development, from months to days and days to just hours.",
+			"person": "Michael Rhodin",
+			"person_title": "SVP Watson Group",
+			"company": "IBM",
+			"cta_label": "See more on Watson Discovery Advisor",
+			"cta_url": "http://www.ibm.com/smarterplanet/us/en/ibmwatson/discovery-advisor.html",
+			"deeplink_description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis",
+			"deeplink_title": "Analytics",
+			"alignment": "right",
+			"_id": "62267a5b33f1251d6cd3ecc46dfbe8e2",
+			"name": "watson-discovery-it",
+			"filters": {
+				"role": "it",
+				"segment": "all"
+			},
+			"content-type": "product"
+		}
+	],
+	"watson_engagement_advisor": [
+		{
+			"product_name": "Watson Engagement Advisor",
+			"description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam",
+			"alignment": "left",
+			"quote_copy": "The new way to work is about making things personal. The Watson Engagement Advisor learns from user data to create individual experiences. This tool allows users to interact with Watson -- in natural language -- to find relevant solutions to their challenges. The ability to understand unstructured data in such an engaging way is changing the way to customers are serviced.",
+			"person": "Michael Rhodin",
+			"person_title": "SVP Watson Group",
+			"company": "IBM",
+			"cta_label": "See more on Watson Discovery Advisor",
+			"cta_url": "http://www.ibm.com/smarterplanet/us/en/ibmwatson/engagement_advisor.html",
+			"deeplink_description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis",
+			"deeplink_title": "Engagement",
+			"_id": "42675286f234311e7388beb61a3ffb50",
+			"name": "watson-engagement-default",
+			"filters": {
+				"role": "default",
+				"segment": "all"
+			},
+			"content-type": "product"
+		},
+		{
+			"deeplink_description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis",
+			"deeplink_title": "Engagement",
+			"product_name": "Watson Engagement Advisor",
+			"description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam",
+			"subhead": "Lorem ipsum dolor sit amet                              Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla",
+			"quote_copy": "The new way to work is about making things personal. The Watson Engagement Advisor learns from user data to create individual experiences. This tool allows users to interact with Watson -- in natural language -- to find relevant solutions to their challenges. The ability to understand unstructured data in such an engaging way is changing the way to customers are serviced.",
+			"person": "Michael Rhodin",
+			"person_title": "SVP Watson Group",
+			"company": "IBM",
+			"alignment": "left",
+			"cta_label": "See more on Watson Discovery Advisor",
+			"cta_url": "http://www.ibm.com/smarterplanet/us/en/ibmwatson/engagement_advisor.html",
+			"_id": "42675286f234311e7388beb61a4617bc",
+			"name": "watson-engagement-lob",
+			"filters": {
+				"role": "lob",
+				"segment": "all"
+			},
+			"content-type": "product"
+		},
+		{
+			"product_name": "Watson Engagement Advisor",
+			"description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam",
+			"quote_copy": "The new way to work is about making things personal. The Watson Engagement Advisor learns from user data to create individual experiences. This tool allows users to interact with Watson -- in natural language -- to find relevant solutions to their challenges. The ability to understand unstructured data in such an engaging way is changing the way to customers are serviced.",
+			"person_title": "SVP Watson Group",
+			"person": "Michael Rhodin",
+			"cta_label": "See more on Watson Discovery Advisor",
+			"cta_url": "http://www.ibm.com/smarterplanet/us/en/ibmwatson/engagement_advisor.html",
+			"alignment": "left",
+			"deeplink_title": "Engagement",
+			"deeplink_description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis",
+			"company": "IBM",
+			"_id": "89320fc76d0a9c088495da15f846325f",
+			"name": "watson-engagement-it",
+			"filters": {
+				"role": "it",
+				"segment": "all"
+			},
+			"content-type": "product"
+		},
+		{
+			"deeplink_description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis",
+			"deeplink_title": "Engagement",
+			"product_name": "Watson Engagement Advisor",
+			"alignment": "left",
+			"description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam",
+			"quote_copy": "The new way to work is about making things personal. The Watson Engagement Advisor learns from user data to create individual experiences. This tool allows users to interact with Watson -- in natural language -- to find relevant solutions to their challenges. The ability to understand unstructured data in such an engaging way is changing the way to customers are serviced.",
+			"person": "Michael Rhodin",
+			"person_title": "SVP Watson Group",
+			"company": "IBM",
+			"_id": "5940e8e85dd37a7f7f7cb85f84f5d97a",
+			"name": "watson-engagement-dev",
+			"filters": {
+				"role": "dev",
+				"segment": "all"
+			},
+			"content-type": "product"
+		}
+	],
+	"watson_oncology": [
+		{
+			"product_name": "Watson Oncology",
+			"deeplink_title": "Oncology",
+			"description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam",
+			"alignment": "right",
+			"deeplink_description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis",
+			"_id": "42675286f234311e7388beb61a4bda8c",
+			"name": "watson-oncology-default",
+			"filters": {
+				"role": "default",
+				"segment": "all"
+			},
+			"content-type": "product"
+		},
+		{
+			"description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam",
+			"product_name": "Watson Oncology",
+			"alignment": "right",
+			"deeplink_title": "Oncology",
+			"deeplink_description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis",
+			"_id": "b1b90697734b4e991edb4de38bb1bf10",
+			"name": "watson-oncology-it",
+			"filters": {
+				"role": "it",
+				"segment": "all"
+			},
+			"content-type": "product"
+		},
+		{
+			"deeplink_description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis",
+			"deeplink_title": "Oncology",
+			"alignment": "right",
+			"description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam",
+			"product_name": "Watson Oncology",
+			"_id": "b1b90697734b4e991edb4de38bb276f4",
+			"name": "watson-oncology-dev",
+			"filters": {
+				"role": "dev",
+				"segment": "all"
+			},
+			"content-type": "product"
+		},
+		{
+			"deeplink_description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis",
+			"product_name": "Watson Oncology",
+			"description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam",
+			"subhead": "Lorem ipsum dolor sit amet                              Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla",
+			"deeplink_title": "Oncology",
+			"alignment": "right",
+			"_id": "b4e1d103aee1887298867d40bd49d1bf",
+			"name": "watson-oncology-lob",
+			"filters": {
+				"role": "lob",
+				"segment": "all"
+			},
+			"content-type": "product"
+		}
+	],
+	"footer": []
+}, "parent": "b1b90697734b4e991edb4de38b848cba", "url": "/watson/", "canonical_url": "/watson/", "page_title": "IBM | Made with IBM - Watson", "model": "Page"}

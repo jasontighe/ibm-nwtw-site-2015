@@ -1,0 +1,83 @@
+{"_id": "04ac1fc87d53162324346de5a4a6972c", "_rev": "3-354fa26c3eb4f496a318a392639be2d1", "type": "nww_site", "country": "US", "language": "en_US", "locale_url": "en/us", "name": "Social", "locations": {
+	"intro": [
+		{
+			"title": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget",
+			"description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper",
+			"alignment": "left",
+			"_id": "b1b90697734b4e991edb4de38bb54270",
+			"name": "Social-Hero",
+			"filters": {
+				"role": "all",
+				"segment": "all"
+			},
+			"content-type": "hero"
+		}
+	],
+	"verse": [
+		{
+			"product_name": "Verse",
+			"description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam",
+			"alignment": "right",
+			"cta_label": "See more on Verse",
+			"cta_url": "http://www.ibm.com/social-business/us/en/newway/?lnk=ushpls3",
+			"company": "CMS Wire",
+			"quote_copy": "IBM has showcased some truly remarkable tools that can provide the all-in-one technology solution to enable a social business to thrive. Beyond that IBM has positioned the products to coexist with the technologies that companies are already using.",
+			"_id": "89320fc76d0a9c088495da15f8509263",
+			"name": "verse-default",
+			"filters": {
+				"role": "default",
+				"segment": "all"
+			},
+			"content-type": "product"
+		},
+		{
+			"product_name": "Verse",
+			"quote_copy": "IBM has showcased some truly remarkable tools that can provide the all-in-one technology solution to enable a social business to thrive. Beyond that IBM has positioned the products to coexist with the technologies that companies are already using.",
+			"subhead": "Lorem ipsum dolor sit amet                              Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla",
+			"description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam",
+			"company": "CMS Wire",
+			"cta_label": "See more on Verse",
+			"cta_url": "http://www.ibm.com/social-business/us/en/newway/?lnk=ushpls3",
+			"_id": "d522261661c8638f04aad18e4f58d8ad",
+			"name": "verse-lob",
+			"filters": {
+				"role": "lob",
+				"segment": "all"
+			},
+			"content-type": "product"
+		},
+		{
+			"product_name": "Verse",
+			"cta_url": "http://www.ibm.com/social-business/us/en/newway/?lnk=ushpls3",
+			"cta_label": "See more on Verse",
+			"company": "CMS Wire",
+			"quote_copy": "IBM has showcased some truly remarkable tools that can provide the all-in-one technology solution to enable a social business to thrive. Beyond that IBM has positioned the products to coexist with the technologies that companies are already using.",
+			"description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam",
+			"alignment": "right",
+			"_id": "b1b90697734b4e991edb4de38bbccc79",
+			"name": "verse-it",
+			"filters": {
+				"role": "it",
+				"segment": "all"
+			},
+			"content-type": "product"
+		},
+		{
+			"product_name": "Verse",
+			"description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam",
+			"alignment": "right",
+			"quote_copy": "IBM has showcased some truly remarkable tools that can provide the all-in-one technology solution to enable a social business to thrive. Beyond that IBM has positioned the products to coexist with the technologies that companies are already using.",
+			"company": "CMS Wire",
+			"cta_label": "See more on Verse",
+			"cta_url": "http://www.ibm.com/social-business/us/en/newway/?lnk=ushpls3",
+			"_id": "54de45a9a85875f3309fad5eea1c3fbf",
+			"name": "verse-dev",
+			"filters": {
+				"role": "dev",
+				"segment": "all"
+			},
+			"content-type": "product"
+		}
+	],
+	"footer": []
+}, "parent": "b1b90697734b4e991edb4de38b848cba", "url": "/social/", "canonical_url": "/social/", "page_title": "IBM | Made with IBM - Social", "model": "Page"}

@@ -1,0 +1,65 @@
+<div class="featured-{{query.featured_product}} ">
+	<div top-nav></div>
+
+	<div id="intro" class="ibm-band {{item['content-type']}} " ng-repeat="item in locations.intro">
+		<div page-content type="modules/{{item['content-type']}}"></div>
+	</div>
+
+	<!--
+	<p class="debug">locations.category_links.length: {{locations.category_links.length}}</p>
+	<p class="debug">modules/{{item['content-type']}}: modules/{{item['content-type']}}</p>
+	<p class="debug">locations.category_links: {{locations.category_links}}</p>
+    <p>query.campaign: {{query.campaign}}</p>
+	-->
+
+	<div ng-if="locations.category_links" id="category_links">
+		<div class="ibm-columns">
+			<div ng-repeat="item in locations.category_links"  class="{{item['content-type']}}" on-repeat-complete="products">
+				<div page-content type="modules/{{item['content-type']}}"></div>
+			</div>
+		</div>
+        <div class="ibm-columns">
+            <div class="ibm-links">
+                <a class="link" href="http://www.ibm.com/smarterplanet/us/en/madewithibm/" target="_blank">
+                    <img src="./i/icons/arrow-circled-right.png" /> Made with IBM Stories
+                </a>
+            </div>
+        </div>
+	</div>
+
+	<div ng-if="locations.interactive">
+		<div ng-repeat="item in locations.interactive" id="interactive" class="ibm-band {{item['content-type']}}">
+            <div page-content type="modules/{{item['content-type']}}"></div>
+		</div>
+	</div>
+
+	<div  ng-if="locations.thought_leadership">
+		<div id="thought_leadership" class="ibm-band {{item['content-type']}}" ng-repeat="item in locations.thought_leadership">
+			<div page-content type="modules/{{item['content-type']}}"></div>
+		</div>
+	 </div>
+
+	<div accordion ng-repeat="product in locations.products" id="{{product.$key}}" class="ibm-band product-wrapper" accordion-name="{{product[0].product_name}}" accordion-subcategory="{{product[0].sub_category}}" on-repeat-complete="products">
+		<div class="product-content">
+            <div class="mobileOnly accordion-bar"></div>
+			<div ng-repeat="item in product" id="{{product.$key}}_{{$index}}">
+				<div class="{{item['content-type']}}" page-content type="modules/{{item['content-type']}}"></div>
+			</div>
+		</div>
+		<div class="{{product.$key}}-divider divider" >
+            <div class="ibm-columns">
+                <div class="ibm-col-1-1">
+                    <img ng-src="../i/campaign-{{query.campaign}}/divider-{{product.$key}}.png" />
+                </div>
+            </div>
+        </div>
+	</div>
+
+	<div id="footer" class="{{item['content-type']}}" ng-repeat="item in locations.footer">
+		<div page-content type="modules/footer"></div>
+	</div>
+
+	<!--div footer></div-->
+</div>
+
+

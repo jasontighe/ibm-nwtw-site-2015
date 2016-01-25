@@ -1,0 +1,116 @@
+{
+	"_id": "d6a4aa1e573f9fa10edb059f2f4c4bgg",
+	"_rev": "1-b7a2b3385be94d33d5a7b8ee66c6500b",
+	"id": "cloud-category-page",
+	"type": "nww_site",
+	"country": "US",
+	"language": "en_US",
+	"locale_url": "en/us",
+	"name": "Home",
+	"parent": "",
+	"url": "/",
+	"canonical_url": "/",
+	"page_title": "IBM | Made with IBM",
+	"model": "Page",
+	"locations": {
+		"intro": [
+			{
+				"title": "There’s a new way to work and it’s made with IBM",
+				"description": "Here starts the next workforce revolution. In it you will use technology to improve ways in which you think, collaborate, create and engage. IBM can help you shape what comes next.",
+				"alignment": "left",
+				"_id": "d522261661c8638f04aad18e4f36dae6",
+				"filters": {
+					"role": "all",
+					"segment": "all",
+					"featured_product": ""
+				},
+				"name": "Home-Hero",
+				"content-type": "hero"
+			}
+		],
+		"category_links": [
+			{
+				"category_label": "Cloud",
+				"category_description": "Turn ideas into results faster than anyone else. Your choice of physical and virtual infrastructure solutions gives you flexibility without compromising performance and security. SaaS offerings keep your business productive and collaborative. And PaaS offerings give you simpler environments to innovate in. The flexibility of choice will speed up how you work.",
+				"subtitle": "Work flexibly",
+				"category_link": "cloud",
+				"_id": "b4e1d103aee1887298867d40bd2173f0",
+				"filters": {
+					"role": "all",
+					"segment": "all",
+					"featured_product": ""
+				},
+				"name": "home-link-cloud",
+				"content-type": "home_link"
+			},
+			{
+				"category_label": "Watson",
+				"subtitle": "Work at scale",
+				"category_description": "Cognitive computing is showing business new ways to solve complex challenges. Having proven its capabilities assisting medical research and treatment, IBM Watson is now changing how people work with data in financial, retail, travel and service industries. It’s the power to magnify your own thinking and find relevance in data faster.",
+				"category_link": "watson",
+				"_id": "b2dc717ba4d9658a1eab065a4dbeaa71",
+				"filters": {
+					"role": "all",
+					"segment": "all",
+					"featured_product": ""
+				},
+				"name": "home-link-watson",
+				"content-type": "home_link"
+			},
+			{
+				"category_label": "Data",
+				"subtitle": "Work by the numbers",
+				"category_description": "With an ability to analyze structured, unstructured and streaming real-time data, big data & analytics offerings from IBM give you the tools for better decision-making. And through an exclusive data partnership with Twitter, you can now get closer to what your customers need.",
+				"category_link": "data",
+				"_id": "908fb28c33b0ace8dab8dd96c2f2b491",
+				"filters": {
+					"role": "all",
+					"segment": "all",
+					"featured_product": ""
+				},
+				"name": "home-link-data",
+				"content-type": "home_link"
+			},
+			{
+				"category_label": "Social",
+				"subtitle": "Work together",
+				"category_description": "Social was once something that distracted you from work. IBM Social goes beyond talking and sharing. It gives you ways to connect in real time, to tap into collective knowledge and to unlock insights from behavioral patterns. With the right tools you can create more meaningful experiences that elevate work.",
+				"category_link": "social",
+				"_id": "b1b90697734b4e991edb4de38b8e6b3a",
+				"filters": {
+					"role": "all",
+					"segment": "all",
+					"featured_product": ""
+				},
+				"name": "home-link-social",
+				"content-type": "home_link"
+			},
+			{
+				"category_label": "Security",
+				"subtitle": "Work in safety",
+				"category_description": "In a world immersed in digital, security threats are equally present. Hackers, natural disasters and system failures are proving that many of today’s systems aren’t enough. Built on a foundation of analytics expertise, IBM Security offerings allow you to pinpoint vulnerabilities and inform tools that’ll keep your work safe.",
+				"category_link": "security",
+				"_id": "b4e1d103aee1887298867d40bd2748d9",
+				"filters": {
+					"role": "all",
+					"segment": "all",
+					"featured_product": ""
+				},
+				"name": "home-link-security",
+				"content-type": "home_link"
+			}
+		],
+		"footer": [
+
+			{
+				"filters": {
+					"role": "all",
+					"segment": "all",
+					"featured_product": ""
+				},
+				"content-type": "footer"
+			}
+		]
+	}
+
+}

@@ -1,0 +1,19 @@
+<div class="ibm-columns box">
+    <div class="ibm-col-6-3">
+        <p>Recommended for you:</p>
+        <h4>{{item.document_title}}</h4>
+        <p class="subtitle">{{item.document_subtitle}}</p>
+        <p>{{item.document_description}}</p>
+        <p class="company">{{item.document_company}}</p>
+        <p class="small industry">{{item.document_industry}}</p>
+
+        <p class="button">
+            <a href="{{item.cta_url}}" target="_blank" class="fadeAllInOutFast">{{item.document_cta_label}}</a>
+        </p>
+    </div>
+    <div class="ibm-col-6-3">
+        <div page-content type="components/video"></div>
+        <p class="video-doc-title">{{item.video_title}}</p>
+        <p class="video-doc-desc noMobile">{{item.video_description}}</p>
+    </div>
+</div>

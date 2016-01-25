@@ -1,0 +1,16 @@
+<!--div ng-include="relpath + 'templates/components/video.html'"></div-->
+
+<div class="ibm-columns box" ng-switch="item.alignment">
+
+    <!-- QA 12.15 Removed as their is currently no alignment set
+    <div ng-switch-when="left">
+    -->
+    <div class="ibm-col-6-4">
+        <div page-content type="components/video"></div>
+
+    </div>
+    <div class="ibm-col-6-2">
+        <p>Recommended for you:</p>
+        <div page-content type="components/video_description"></div>
+    </div>
+</div>

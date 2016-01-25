@@ -1,0 +1,177 @@
+{
+	"_id": "b2dc717ba4d9658a1eab065a4df8c86d",
+	"_rev": "4-b0535e3e13025659314557e83b87abc7",
+	"type": "nww_site",
+	"country": "US",
+	"language": "en_US",
+	"locale_url": "en/us",
+	"name": "Security",
+	"parent": "b1b90697734b4e991edb4de38b848cba",
+	"url": "security",
+	"canonical_url": "security",
+	"page_title": "IBM | Made with IBM - Security",
+	"model": "Page",
+	"locations": {
+		"intro": [
+			{
+				"title": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget",
+				"description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper",
+				"alignment": "left",
+				"_id": "54de45a9a85875f3309fad5eea26de0d",
+				"filters": {
+					"role": "all",
+					"segment": "all",
+					"featured_product": ""
+				},
+				"name": "Security-Hero",
+				"content-type": "hero"
+			}
+		],
+		"qradar": [
+			{
+				"product_name": "QRadar",
+				"description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam",
+				"cta_label": "See more on QRadar",
+				"cta_url": "http://www-03.ibm.com/software/products/en/qradar",
+				"alignment": "right",
+				"_id": "6bd002b1da8582ac8800ca5613bee04c",
+				"filters": {
+					"role": "default",
+					"segment": "all",
+					"featured_product": ""
+				},
+				"name": "qradar-default",
+				"content-type": "product"
+			},
+			{
+				"video_title": "The Next Era for Security - IBM QRadar Security Intelligence Platform",
+				"video_description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis",
+				"video_url": "a7Pn1UQhilM",
+				"video_images": {
+					"altText": "qradar video"
+				},
+				"document_title": "IBM QRadar Security Intelligence: Evidence of Value",
+				"document_subtype": "whitepaper",
+				"document_description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis.",
+				"document_cta_url": "http://public.dhe.ibm.com/common/ssi/ecm/en/wgl03046usen/WGL03046USEN.PDF",
+				"document_cta_label": "Lorem ipsum dolor sit amet",
+				"_id": "8a16c5b84ca52c25f67492ac4c87a3eb",
+				"filters": {
+					"role": "default",
+					"segment": "all",
+					"featured_product": ""
+				},
+				"name": "qradar-vid-doc-default",
+				"content-type": "video_document"
+			},
+			{
+				"product_name": "QRadar",
+				"description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam",
+				"subhead": "Lorem ipsum dolor sit amet                              Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla",
+				"quote_copy": "QRadar is the core nucleus of our security intelligence strategy. It gives you the optics. It gives you the visibility. And gives you the tools to see better into your organization than ever before.",
+				"person": "Steve Robinson",
+				"person_title": "VP Security Division",
+				"company": "IBM",
+				"cta_label": "See more on QRadar",
+				"cta_url": "http://www-03.ibm.com/software/products/en/qradar",
+				"_id": "ae89697922448a2718867752ba1c6b3d",
+				"filters": {
+					"role": "lob",
+					"segment": "2",
+					"featured_product": ""
+				},
+				"name": "qradar-lob",
+				"content-type": "product"
+			},
+			{
+				"product_name": "QRadar",
+				"title": "IBM QRadar Security Intelligence: Evidence of Value",
+				"subtype": "whitepaper",
+				"description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis.",
+				"cta_label": "Lorem ipsum dolor sit amet",
+				"cta_url": "http://public.dhe.ibm.com/common/ssi/ecm/en/wgl03046usen/WGL03046USEN.PDF",
+				"_id": "af7853b547fb43c2b14585a2c2855e20",
+				"filters": {
+					"role": "lob",
+					"segment": "all",
+					"featured_product": ""
+				},
+				"name": "qradar-vid-doc-lob",
+				"content-type": "document"
+			},
+			{
+				"description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam",
+				"subhead": "Lorem ipsum dolor sit amet Consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in.",
+				"cta_label": "See more on QRadar",
+				"cta_url": "http://www-03.ibm.com/software/products/en/qradar",
+				"_id": "1991c1a64ab3432d679a2957bd962c8a",
+				"filters": {
+					"role": "it",
+					"segment": "2",
+					"featured_product": ""
+				},
+				"name": "qradar-it",
+				"content-type": "product"
+			},
+			{
+				"video_url": "J5t3IzaRZS4",
+				"video_title": "QRadar Vulnerability Manager in action",
+				"video_description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis.",
+				"document_subtype": "whitepaper",
+				"document_title": "IBM QRadar Security Intelligence Platform appliances",
+				"document_description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis.",
+				"document_cta_label": "Lorem ipsum dolor sit amet",
+				"document_cta_url": "http://public.dhe.ibm.com/common/ssi/ecm/en/wgd03019usen/WGD03019USEN.PDF",
+				"_id": "afd27710cb039c9f391798d03f8ebab9",
+				"filters": {
+					"role": "it",
+					"segment": "2",
+					"featured_product": ""
+				},
+				"name": "qradar-vid-doc-it",
+				"content-type": "video_document"
+			},
+			{
+				"subtype": "whitepaper",
+				"title": "IBM QRadar Security Intelligence Platform appliances",
+				"description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis.",
+				"cta_label": "Lorem ipsum dolor sit amet",
+				"cta_url": "http://public.dhe.ibm.com/common/ssi/ecm/en/wgd03019usen/WGD03019USEN.PDF",
+				"_id": "1caf83a7922a9a02d70ea17391dff6b1",
+				"filters": {
+					"role": "dev",
+					"segment": "2",
+					"featured_product": ""
+				},
+				"name": "qradar-doc-dev",
+				"content-type": "document"
+			},
+			{
+				"product_name": "Qradar",
+				"description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam.",
+				"alignment": "right",
+				"cta_label": "See more on QRadar",
+				"cta_url": "http://www-03.ibm.com/software/products/en/qradar",
+				"_id": "d5c9208556b74a2ee79b0fa8a95d6474",
+				"filters": {
+					"role": "dev",
+					"segment": "2",
+					"featured_product": ""
+				},
+				"name": "qradar-dev",
+				"content-type": "product"
+			}
+		],
+		"footer": [
+
+			{
+				"filters": {
+					"role": "all",
+					"segment": "all",
+					"featured_product": ""
+				},
+				"content-type": "footer"
+			}
+		]
+	}
+}

@@ -1,0 +1,46 @@
+{"_id": "sitenav", "_rev": "38-4565928f0c21bccb15742e388a9b3b17", "site_name": "A New Way to Work", "items": [
+	{
+		"_id": "b1b90697734b4e991edb4de38b848cba",
+		"page_title": "IBM | Made with IBM",
+		"name": "Home",
+		"parent": "",
+		"url": "/",
+		"children": [
+			{
+				"_id": "04ac1fc87d53162324346de5a4a6972c",
+				"page_title": "IBM | Made with IBM - Social",
+				"name": "Social",
+				"parent": "b1b90697734b4e991edb4de38b848cba",
+				"url": "social/"
+			},
+			{
+				"_id": "40436a4d02f9a8677dd7cd4929133e90",
+				"page_title": "IBM | Made with IBM - Data",
+				"name": "Data",
+				"parent": "b1b90697734b4e991edb4de38b848cba",
+				"url": "data/"
+			},
+			{
+				"_id": "45600acb8e272113fdeb09464fbd6523",
+				"page_title": "IBM | Made with IBM - Watson",
+				"name": "Watson",
+				"parent": "b1b90697734b4e991edb4de38b848cba",
+				"url": "watson/"
+			},
+			{
+				"_id": "62267a5b33f1251d6cd3ecc46dc99503",
+				"page_title": "IBM | Made with IBM - Cloud",
+				"name": "Cloud",
+				"parent": "b1b90697734b4e991edb4de38b848cba",
+				"url": "cloud/"
+			},
+			{
+				"_id": "b2dc717ba4d9658a1eab065a4df8c86d",
+				"page_title": "IBM | Made with IBM - Security",
+				"name": "Security",
+				"parent": "b1b90697734b4e991edb4de38b848cba",
+				"url": "security/"
+			}
+		]
+	}
+]}

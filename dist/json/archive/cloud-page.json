@@ -1,0 +1,141 @@
+{
+	"_id": "d6a4aa1e573f9fa10edb059f2f4c4bgg",
+	"_rev": "1-b7a2b3385be94d33d5a7b8ee66c6500b",
+	"id": "cloud-category-page",
+	"type": "nww_site",
+
+	"country": "US"
+	"language": "en_US",
+	"locale_url": "en/us",
+	"url": "some-page"
+
+	"page-title": "some title",
+	"page-description": "some desc",
+	"page-keywords": "key1, key2",
+	"start-date": "1/1/2015",
+
+	"og-title": "some title",
+	"og-description": "some desc",
+	"og-image": "someimg.png",
+	"og-url": "some-page",
+
+	"locations": {
+		"section1": {
+			"name": "section1",
+			"items": [
+				{
+					"content-type": "slideshow",
+					"filters": {
+						"role": "default",
+						"segment": ""
+					},
+					"slides": [
+						{
+							"images": {
+								"desktop": "../i/pic1.jpg",
+								"desktop-retina": "../i/pic1-x2.jpg",
+								"mobile": "../i/pic1-mobile.jpg",
+								"mobile-retina": "../i/pic1-mobile-x2.jpg"
+							},
+							"title": "",
+							"description": "Creativity is up to us. Being creative faster is where technology comes in. Bluemix on the cloud helps us rapidly build, manage and run apps no matter where they are being used. On a platform that includes Java capabilites, mobile back-end development, open standards, application monitoring and exculsive features from our ecosystem partners, you can remove the obstacles between your business idea and bringing it to life.",
+							"cta_link": "",
+							"cta_link_label": ""
+						},
+						{
+							"images": {
+								"desktop": "../i/pic1.jpg",
+								"desktop-retina": "../i/pic1-x2.jpg",
+								"mobile": "../i/pic1-mobile.jpg",
+								"mobile-retina": "../i/pic1-mobile-x2.jpg"
+							},
+							"title": "",
+							"description": "Creativity is up to us. Being creative faster is where technology comes in. Bluemix on the cloud helps us rapidly build, manage and run apps no matter where they are being used. On a platform that includes Java capabilites, mobile back-end development, open standards, application monitoring and exculsive features from our ecosystem partners, you can remove the obstacles between your business idea and bringing it to life.",
+							"cta_link": "",
+							"cta_link_label": ""
+						}
+					]
+
+				}
+			]
+		},
+		"section2": {
+			"name": "section2",
+			"items": [
+				{
+					"content-type": "product_description",
+					"filters": {
+						"role": "default",
+						"segment": ""
+					},
+					"description": "some description"
+				},
+				{
+					"content-type": "product_description",
+					"filters": {
+						"role": "it",
+						"segment": ""
+					},
+					"description": "some it description"
+				},
+				{
+					"content-type": "product_description",
+					"filters": {
+						"role": "dev",
+						"segment": ""
+					},
+					"description": "some dev description"
+				},
+				{
+					"content-type": "video",
+					"filters": {
+						"role": "default",
+						"segment": ""
+					},
+					"images": {
+						"desktop": "../i/pic1.jpg",
+						"desktop-retina": "../i/pic1-x2.jpg",
+						"mobile": "../i/pic1-mobile.jpg",
+						"mobile-retina": "../i/pic1-mobile-x2.jpg"
+					},
+					"title": "A demonstration of IBM's Bluemix",
+					"description": "Default version. This video shows a demonstration of IBM BlueMix, an environment for the quick creation, deployment, and management of applications in the cloud.",
+					"video_url": "somevideo.mp4"
+				},
+				{
+					"content-type": "video",
+					"filters": {
+						"role": "dev",
+						"segment": ""
+					},
+					"images": {
+						"desktop": "../i/pic1.jpg",
+						"desktop-retina": "../i/pic1-x2.jpg",
+						"mobile": "../i/pic1-mobile.jpg",
+						"mobile-retina": "../i/pic1-mobile-x2.jpg"
+					},
+					"title": "A demonstration of IBM's Bluemix",
+					"description": "Default version. This video shows a demonstration of IBM BlueMix, an environment for the quick creation, deployment, and management of applications in the cloud.",
+					"video_url": "somevideo.mp4"
+				},
+				{
+					"content-type": "video",
+					"filters": {
+						"role": "it",
+						"segment": ""
+					},
+					"images": {
+						"desktop": "../i/pic1.jpg",
+						"desktop-retina": "../i/pic1-x2.jpg",
+						"mobile": "../i/pic1-mobile.jpg",
+						"mobile-retina": "../i/pic1-mobile-x2.jpg"
+					},
+					"title": "A demonstration of IBM's Bluemix",
+					"description": "Default version. This video shows a demonstration of IBM BlueMix, an environment for the quick creation, deployment, and management of applications in the cloud.",
+					"video_url": "somevideo.mp4"
+				}
+			]
+		}
+	}
+
+}
